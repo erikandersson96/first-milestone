@@ -12,4 +12,4 @@ Take a look here
 
 ### Purpose 
 
-This website was created to let people have their old vintage watch restord for a better condition. A lot of people have probably inherit an old vintage watch from their ancestors. I could be your grandfhater/grandmothers old watch or someone of your parents watch that they wore everyday. Either way it is probably got a scratch or two. 
+This website was created to let people have their old vintage watch restord for a better condition. A lot of people have probably inherit an old vintage watch from their ancestors. It could be thier grandfhater/grandmothers old watch or someone of thier parents old watch that they used everyday. Either way it is probably well-worn and in need for a restoration to both look fresher and function more precisely. 
