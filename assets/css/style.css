@@ -7,6 +7,20 @@
 }
 
 body {
-    font-family: Open Sans;
+    font-family: Open+Sans, sans-serif;
     font-weight: 300;
+    color: #3a3a3a;
+} 
+
+/* Headings and logo */ 
+
+h1, h2 {
+    font-family: Oswald, sans-serif;
+    letter-spacing: 1px;
+    color: #252525;
+} 
+
+#logo {
+    float: left;
+    font-size: 260%;
 }
