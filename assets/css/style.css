@@ -58,7 +58,7 @@ h1, h2 {
 /* hero-image */
 
 #clear-header {
-    height: 900px;
+    height: 800px;
     width: 100%;
     clear: both;
 
@@ -78,7 +78,28 @@ h1, h2 {
 #cover-quote {
     position: absolute;
     top: 40%;
-    left: 22%;
+    left: 17%;
     transform: translate(-50%, -50%);  
 } 
 
+
+/* social media links in footer */
+
+footer {
+    height: 150px;
+} 
+
+.social-media-links {
+    text-align: center;
+}
+
+.social-media-links > li {
+    display: inline;
+}
+
+.social-media-links i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
+}
