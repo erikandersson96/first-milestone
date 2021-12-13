@@ -19,7 +19,7 @@ body {
 h1, h2 {
     font-family: Oswald, sans-serif;
     letter-spacing: 1px;
-    color: #252525;
+    color: #000000;
 } 
 
 #logo {
@@ -33,7 +33,7 @@ h1, h2 {
 } 
 
 #menu, #logo {
-    line-height: 60px;
+    line-height: 70px;
 }
 
 #menu li {
@@ -86,7 +86,7 @@ h1, h2 {
 /* social media links in footer */
 
 footer {
-    height: 150px;
+    height: 50px;
     
 } 
 
@@ -101,8 +101,8 @@ footer {
 }
 
 .social-media-links i {
-    font-size: 160%;
+    font-size: 200%;
     margin: 1%;
-    padding: 5%;
-    color: #3a3a3a;
+    padding: 1%;
+    color: #000000;
 }
