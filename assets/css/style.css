@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@900&family=Open+Sans:wght@300&display=swap');
 
+
+
 * {
     margin: 0;
     padding: 0;
@@ -52,3 +54,31 @@ h1, h2 {
 .active {
     border-bottom: 1px solid #3a3a3a;
 }
+
+/* hero-image */
+
+#clear-header {
+    height: 900px;
+    width: 100%;
+    clear: both;
+
+}
+
+#cover-quote, #cover-quote h1 {
+    color: #fff;
+}
+
+#hero-image {
+    height: 800px;
+    width: 100%;
+    background: url('../images/hero-image.jpg') no-repeat center center;
+} 
+
+/* Cover quote */
+#cover-quote {
+    position: absolute;
+    top: 40%;
+    left: 22%;
+    transform: translate(-50%, -50%);  
+} 
+
