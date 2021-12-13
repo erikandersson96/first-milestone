@@ -87,14 +87,17 @@ h1, h2 {
 
 footer {
     height: 150px;
+    
 } 
 
 .social-media-links {
     text-align: center;
+    
 }
 
 .social-media-links > li {
     display: inline;
+    
 }
 
 .social-media-links i {
