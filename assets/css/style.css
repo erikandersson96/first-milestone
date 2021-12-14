@@ -90,7 +90,8 @@ h1, h2 {
 
 footer {
     height: 50px;
-    
+    padding-top: 10px;
+    padding-bottom: 10px;
 } 
 
 .social-media-links {
@@ -104,7 +105,7 @@ footer {
 }
 
 .social-media-links i {
-    font-size: 200%;
+    font-size: 190%;
     margin: 1%;
     padding: 1%;
     color: #000000;
