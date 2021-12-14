@@ -84,7 +84,9 @@ h1, h2 {
     position: absolute;
     top: 40%;
     left: 17%;
-    transform: translate(-50%, -50%);  
+    transform: translate(-50%, -50%); 
+    width: 30%;
+    height: 30%; 
 } 
 
 /* About us cover text box (about us page) */
@@ -117,7 +119,22 @@ footer {
     margin: 1%;
     padding: 1%;
     color: #000000;
+} 
+
+/* Media queries */
+
+/* For desktop to tablet screen size 1200px and down */
+@media screen and (max-width: 1200px) {
+    #about-us-cover {
+        width: 65%;
+        height: 100%;
+        margin: 0 auto;
+       
+        
+    } 
+
 }
+
 
 /* About us cover text box */
 
@@ -125,18 +142,19 @@ footer {
     font-size: 80%;
     font-family: Open+Sans, sans-serif;
     letter-spacing: 1px;
-    text-align: center;
+    text-align: 50%;
 
-    width: 500px;
-    height: 350px;
+    width: 30%;
+    height: 45%;
 
-    padding-top: 40px;
-    padding-left: 10px;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
 
     background-color: rgba(6, 6, 8, 0.753); 
 
-    bottom: 230px;
-    left: 700px;
+    bottom: 30%;
+    left: 35%;
 
     position: absolute;
 }
@@ -154,6 +172,8 @@ footer {
     color: #000000;
     border: 1px solid #000000;
 } 
+
+
 
  
 
