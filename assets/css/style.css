@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@900&family=Open+Sans:wght@300&display=swap');
 
+/* https://fonts.googleapis.com/css2?family=Oswald:wght@900&family=Open+Sans:wght@300&display=swap */
 
 
 * {
@@ -18,7 +19,7 @@ body {
 /* Headings and logo */ 
 
 h1, h2 {
-    font-family: Oswald, sans-serif;
+    font-family: Oswald;
     letter-spacing: 1px;
     color: #000000;   
 } 
@@ -77,6 +78,7 @@ h1, h2 {
     height: 800px;
     width: 100%;
     background: url('../images/hero-image.jpg') no-repeat center center;
+    background-color: #000000;
 } 
 
 /* Cover quote/price info */
@@ -104,9 +106,10 @@ h1, h2 {
     left: 17%;
     
 
-    position: absolute;
-}
+    position: absolute; 
 
+    border-radius: 10%;
+}
 
 
 
@@ -160,7 +163,7 @@ footer {
 /* About us cover text box */
 
 #about-us-cover {
-    font-size: 80%;
+    font-size: 13px;
     font-family: Open+Sans, sans-serif;
     letter-spacing: 1px;
     text-align: 50%;
@@ -177,7 +180,9 @@ footer {
     bottom: 30%;
     left: 35%;
 
-    position: absolute;
+    position: absolute; 
+    
+    border-radius: 10%;
 }
 
 /* Button About us cover box */
@@ -185,6 +190,7 @@ footer {
 #button-about-us {
     padding: 4px;
     margin: 12px 2px;
+    border-radius: 10%;
 }
 
 
@@ -218,5 +224,7 @@ footer {
     left: 17%;
     
 
-    position: absolute;
+    position: absolute; 
+
+    border-radius: 10%;
 }
