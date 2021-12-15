@@ -546,26 +546,26 @@ footer {
 /* For medium desktop screen size 1045px and down */
 @media screen and (max-width: 1045px) {
     #get-in-touch-cover {
-    font-size: 10px;
-    font-family: Open+Sans, sans-serif;
+        font-size: 10px;
+        font-family: Open+Sans, sans-serif;
     
     
-    width: 15%;
-    height: 55%;
+        width: 15%;
+        height: 55%;
 
-    padding-top: 3%;
-    padding-left: 3%;
-    padding-right: 4%;
-    padding-bottom: 3%;
+        padding-top: 3%;
+        padding-left: 3%;
+        padding-right: 4%;
+        padding-bottom: 3%;
 
-    background-color: rgba(6, 6, 8, 0.753); 
+        background-color: rgba(6, 6, 8, 0.753); 
 
-    bottom: 20%;
-    left: 41.5%;
+        bottom: 20%;
+        left: 41.5%;
 
-    position: absolute; 
+        position: absolute; 
     
-    border-radius: 10%;
+        border-radius: 10%;
     }  
     
 
@@ -596,13 +596,98 @@ footer {
         position: absolute; 
     
         border-radius: 10%;
+    } 
+
+
+    #cover-quote {
+        width: 30%;
+        height: 17%;
+    
+        padding-top: 1%;
+        padding-left: 1%;
+        padding-right: 1%;
+    
+        background-color: rgba(6, 6, 8, 0.753); 
+    
+        bottom: 15%;
+        left: 17%;
+        
+    
+        position: absolute; 
+    
+        border-radius: 10%;
     }
+        
 
 } 
 
 
 /* For screen size 1000px and down */ 
+@media screen and (max-width: 1000px) {
+    #get-in-touch-cover {
+        font-size: 5px;
+        font-family: Open+Sans, sans-serif;
+        
+        width: 20%;
+        min-height: 55%;
+    
+        padding-top: 2%;
+        padding-left: 3%;
+        padding-right: 3%;
+        padding-bottom: 2%;
+    
+        background-color: rgba(6, 6, 8, 0.753); 
+    
+        bottom: 4%;
+        left: 37%;
+    
+        position: absolute; 
+        
+        border-radius: 10%; 
+        
 
+        } 
+
+    input {
+        width: 50px;
+    }
+
+
+    .form-get-in-touch {
+        color: #fff;
+        font-size: 18px;
+    } 
+
+
+    #price-info {
+        width: 30%;
+        height: 20%;
+    
+        padding-top: 2%;
+        padding-left: 1%;
+        padding-right: 1%;
+    
+        background-color: rgba(6, 6, 8, 0.753); 
+    
+        bottom: 15%;
+        left: 50%;
+        top: 20%;
+        
+    
+        position: absolute; 
+    
+        border-radius: 10%;
+    } 
+
+    #price-info h1 {
+        color: #fff;
+        font-size: small;
+    } 
+
+
+    
+        
+}
 
 
 
