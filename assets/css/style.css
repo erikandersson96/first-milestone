@@ -305,7 +305,31 @@ footer {
         position: absolute; 
     
         border-radius: 10%;
-    }
+    } 
+
+  
+    #about-us-cover {
+        font-size: 13px;
+        font-family: Open+Sans, sans-serif;
+        letter-spacing: 1px;
+        text-align: 50%;
+    
+        width: 30%;
+        height: 46%;
+    
+        padding-top: 2%;
+        padding-left: 2%;
+        padding-right: 2%;
+    
+        background-color: rgba(6, 6, 8, 0.753); 
+    
+        bottom: 30%;
+        left: 35%;
+    
+        position: absolute; 
+        
+        border-radius: 10%;
+    } 
 
 } 
 
@@ -363,7 +387,30 @@ footer {
         position: absolute; 
     
         border-radius: 10%;
-    }
+    } 
+
+    #about-us-cover {
+        font-size: 12.5px;
+        font-family: Open+Sans, sans-serif;
+        letter-spacing: 1px;
+        text-align: 50%;
+    
+        width: 33%;
+        height: 48%;
+    
+        padding-top: 2%;
+        padding-left: 2%;
+        padding-right: 3%;
+    
+        background-color: rgba(6, 6, 8, 0.753); 
+    
+        bottom: 30%;
+        left: 35%;
+    
+        position: absolute; 
+        
+        border-radius: 10%;
+    } 
 
 } 
 
@@ -402,7 +449,31 @@ footer {
 
     #comment {
         position: relative;
-    }
+    } 
+
+
+    #about-us-cover {
+        font-size: 12.5px;
+        font-family: Open+Sans, sans-serif;
+        letter-spacing: 1px;
+        text-align: 50%;
+    
+        width: 34%;
+        height: 49%;
+    
+        padding-top: 2%;
+        padding-left: 2%;
+        padding-right: 3%;
+    
+        background-color: rgba(6, 6, 8, 0.753); 
+    
+        bottom: 30%;
+        left: 35%;
+    
+        position: absolute; 
+        
+        border-radius: 10%;
+    } 
 
 } 
 
@@ -441,9 +512,35 @@ footer {
 
     #comment {
         position: relative;
-    }
+    } 
+
+
+    #about-us-cover {
+        font-size: 12.5px;
+        font-family: Open+Sans, sans-serif;
+        letter-spacing: 1px;
+        text-align: 50%;
+    
+        width: 37%;
+        height: 49%;
+    
+        padding-top: 2%;
+        padding-left: 2%;
+        padding-right: 3%;
+    
+        background-color: rgba(6, 6, 8, 0.753); 
+    
+        bottom: 30%;
+        left: 35%;
+    
+        position: absolute; 
+        
+        border-radius: 10%;
+    } 
 
 } 
+
+
 
 
 /* For medium desktop screen size 1045px and down */
