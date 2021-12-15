@@ -82,12 +82,33 @@ h1, h2 {
 /* Cover quote/price info */
 #cover-quote, #price-info {
     position: absolute;
-    top: 40%;
+    top: 30%;
     left: 17%;
     transform: translate(-50%, -50%); 
     width: 30%;
     height: 30%; 
 } 
+
+/* Transparent box around */
+#cover-quote {
+    width: 30%;
+    height: 10%;
+
+    padding-top: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+
+    background-color: rgba(6, 6, 8, 0.753); 
+
+    bottom: 15%;
+    left: 17%;
+    
+
+    position: absolute;
+}
+
+
+
 
 /* About us cover text box (about us page) */
 
@@ -181,3 +202,21 @@ footer {
     font-size: large;
 }
 
+/* Transparent background to Price information */
+
+#price-info {
+    width: 30%;
+    height: 15%;
+
+    padding-top: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+
+    background-color: rgba(6, 6, 8, 0.753); 
+
+    bottom: 15%;
+    left: 17%;
+    
+
+    position: absolute;
+}
