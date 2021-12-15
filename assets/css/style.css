@@ -92,7 +92,7 @@ h1, h2 {
 /* Transparent box around */
 #cover-quote {
     width: 30%;
-    height: 10%;
+    height: 15%;
 
     padding-top: 1%;
     padding-left: 1%;
@@ -206,7 +206,7 @@ footer {
 
 #price-info {
     width: 30%;
-    height: 15%;
+    height: 20%;
 
     padding-top: 1%;
     padding-left: 1%;
