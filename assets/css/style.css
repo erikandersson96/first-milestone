@@ -187,14 +187,14 @@ footer {
 
 /* Button About us cover box */
 
-#button-about-us {
+#button-about-us, #button-submit {
     padding: 4px;
     margin: 12px 2px;
     border-radius: 10%;
 }
 
 
-#button-about-us:hover {
+#button-about-us:hover, #button-submit:hover {
     background-color: #fff;
     color: #000000;
     border: 1px solid #000000;
