@@ -228,3 +228,43 @@ footer {
 
     border-radius: 10%;
 }
+
+/* Get in touch transparent box */
+
+#get-in-touch-cover {
+    font-size: 13px;
+    font-family: Open+Sans, sans-serif;
+    letter-spacing: 1px;
+    
+
+    width: 13.5%;
+    height: 55%;
+
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+
+    background-color: rgba(6, 6, 8, 0.753); 
+
+    bottom: 20%;
+    left: 41.5%;
+
+    position: absolute; 
+    
+    border-radius: 10%;
+}
+
+/* Contact form on Get in touch page */ 
+
+.form-get-in-touch {
+    color: #fff;
+    font-size: 24px;
+}
+
+
+
+#contact-form {
+    color: #fff;
+    font-size: 15px;
+}
+
