@@ -27,7 +27,7 @@ h1, h2 {
 
 #logo {
     float: left;
-    font-size: 260%;
+    font-size: 250%;
 } 
 
 #menu {
@@ -36,7 +36,7 @@ h1, h2 {
 } 
 
 #menu, #logo {
-    line-height: 70px;
+    line-height: 45px;
 }
 
 #menu li {
@@ -742,7 +742,7 @@ footer {
 
     #logo {
         float: left;
-        font-size: 210%;
+        font-size: 200%;
     } 
 
     #menu {
@@ -751,7 +751,7 @@ footer {
     } 
 
     #menu, #logo {
-        line-height: 80px;
+        line-height: 40px;
     }
         
 }
@@ -863,13 +863,13 @@ footer {
 
     #logo {
         float: left;
-        font-size: 160%;
+        font-size: 180%;
     } 
 
     #menu li {
         float: right;
         list-style: none;
-        margin-right: 20px; 
+        margin-right: 30px; 
     } 
     
 
@@ -889,7 +889,7 @@ footer {
     } 
 
     #menu, #logo {
-        line-height: 80px;
+        line-height: 25px;
     }
 
     #menu li {
