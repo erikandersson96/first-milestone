@@ -26,8 +26,9 @@ h1, h2 {
 
 
 #logo {
-    float: left;
+    float: left; 
     font-size: 250%;
+    margin-left: 5px;
 } 
 
 #menu {
@@ -93,8 +94,8 @@ h1, h2 {
 
 /* Transparent box around */
 #cover-quote {
-    width: 30%;
-    height: 15%;
+    width: 28%;
+    height: 14%;
 
     padding-top: 1%;
     padding-left: 1%;
@@ -103,7 +104,7 @@ h1, h2 {
     background-color: rgba(6, 6, 8, 0.753); 
 
     bottom: 15%;
-    left: 25%;
+    left: 21%;
     
 
     position: absolute; 
@@ -897,6 +898,92 @@ footer {
         list-style: none;
         margin-right: 15px; 
     } 
+
+    #cover-quote {
+        width: 38%;
+        height: 21%;
+        
+        padding-top: 2%;
+        padding-left: 1%;
+        padding-right: 1%;
+        
+        background-color: rgba(6, 6, 8, 0.753); 
+        
+        bottom: 15%;
+        left: 30%;
+            
+        
+        position: absolute; 
+        
+        border-radius: 10%;
+        }
+} 
+
+
+/* For screen size 470px and down */
+@media screen and (max-width: 470px) {
+    #cover-quote {
+        width: 54%;
+        height: 25%;
+        
+        padding-top: 3%;
+        padding-left: 1%;
+        padding-right: 1%;
+        
+        background-color: rgba(6, 6, 8, 0.753); 
+        
+        bottom: 15%;
+        left: 30%;
+            
+        
+        position: absolute; 
+        
+        border-radius: 10%;
+        } 
+
+    #logo {
+        float: left;
+        font-size: 110%;
+        } 
+
+    #menu {
+        font-size: 95%;
+        letter-spacing: 1px;
+        }
+
+    #menu li {
+        float: right;
+        list-style: none;
+        margin-right: 8px; 
+        } 
+    
+}
+
+
+/* For screen size 355px and down */
+@media screen and (max-width: 355px) {
+    #logo {
+        float: left;
+        font-size: 105%;
+        } 
+
+    #menu {
+        font-size: 90%;
+        letter-spacing: 0.4px;
+        }
+
+    #menu li {
+        float: right;
+        list-style: none;
+        margin-right: 5px; 
+        }
+        
+    .social-media-links i {
+        font-size: 150%;
+        margin: 1%;
+        padding: 1%;
+        color: #000000;
+        } 
 }
 
 
