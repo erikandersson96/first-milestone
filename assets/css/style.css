@@ -405,8 +405,8 @@ footer {
     
         background-color: rgba(6, 6, 8, 0.753); 
     
-        bottom: 30%;
-        left: 35%;
+        bottom: 25%;
+        left: 30%;
     
         position: absolute; 
         
@@ -468,8 +468,8 @@ footer {
     
         background-color: rgba(6, 6, 8, 0.753); 
     
-        bottom: 30%;
-        left: 35%;
+        bottom: 25%;
+        left: 31%;
     
         position: absolute; 
         
@@ -531,8 +531,8 @@ footer {
     
         background-color: rgba(6, 6, 8, 0.753); 
     
-        bottom: 30%;
-        left: 35%;
+        bottom: 25%;
+        left: 28%;
     
         position: absolute; 
         
@@ -933,12 +933,55 @@ footer {
                 
         background-color: rgba(6, 6, 8, 0.753); 
                 
-        bottom: 25%;
-        left: 9%;
+        bottom: 27%;
+        left: 14%;
                 
         position: absolute; 
                     
         border-radius: 10%;
+        }
+        
+    #price-info {
+        width: 50%;
+        height: 21%;
+            
+        padding-top: 2%;
+        padding-left: 1%;
+        padding-right: 2%;
+            
+        background-color: rgba(6, 6, 8, 0.753); 
+            
+        bottom: 15%;
+        left: 50%;
+        top: 20%;
+                
+            
+        position: absolute; 
+            
+        border-radius: 10%;
+        }
+        
+    #get-in-touch-cover {
+        font-size: 5px;
+        font-family: Open+Sans, sans-serif;
+                    
+        width: 38%;
+        height: 52%;
+                
+        padding-top: 5%;
+        padding-left: 3%;
+        padding-right: 3%;
+        padding-bottom: 1%;
+                
+        background-color: rgba(6, 6, 8, 0.753); 
+                
+        bottom: 4%;
+        left: 28%;
+                
+        position: absolute; 
+                    
+        border-radius: 10%; 
+                    
         } 
 } 
 
@@ -946,17 +989,17 @@ footer {
 /* For screen size 470px and down */
 @media screen and (max-width: 470px) {
     #cover-quote {
-        width: 54%;
-        height: 25%;
+        width: 63%;
+        height: 21%;
         
-        padding-top: 3%;
+        padding-top: 4%;
         padding-left: 1%;
         padding-right: 1%;
         
         background-color: rgba(6, 6, 8, 0.753); 
         
         bottom: 15%;
-        left: 30%;
+        left: 37%;
             
         
         position: absolute; 
@@ -996,11 +1039,54 @@ footer {
         background-color: rgba(6, 6, 8, 0.753); 
             
         bottom: 25%;
-        left: 9%;
+        left: 8%;
             
         position: absolute; 
                 
         border-radius: 10%;
+        } 
+
+    #price-info {
+        width: 75%;
+        height: 21%;
+                
+        padding-top: 2%;
+        padding-left: 1%;
+        padding-right: 2%;
+                
+        background-color: rgba(6, 6, 8, 0.753); 
+                
+        bottom: 20%;
+        left: 50%;
+        top: 20%;
+                    
+                
+        position: absolute; 
+                
+        border-radius: 10%;
+        }
+
+    #get-in-touch-cover {
+        font-size: 5px;
+        font-family: Open+Sans, sans-serif;
+                
+        width: 48%;
+        height: 50%;
+            
+        padding-top: 4%;
+        padding-left: 3%;
+        padding-right: 3%;
+        padding-bottom: 2%;
+            
+        background-color: rgba(6, 6, 8, 0.753); 
+            
+        bottom: 4%;
+        left: 23%;
+            
+        position: absolute; 
+                
+        border-radius: 10%; 
+                
         } 
     
     
@@ -1039,7 +1125,7 @@ footer {
         text-align: left;
                 
         width: 82%;
-        height: 50%;
+        height: 53%;
                 
         padding-top: 4%;
         padding-left: 2%;
@@ -1053,7 +1139,50 @@ footer {
         position: absolute; 
                     
         border-radius: 10%;
+        }
+
+    #get-in-touch-cover {
+        font-size: 5px;
+        font-family: Open+Sans, sans-serif;
+            
+        width: 57%;
+        height: 50%;
+        
+        padding-top: 2%;
+        padding-left: 3%;
+        padding-right: 3%;
+        padding-bottom: 2%;
+        
+        background-color: rgba(6, 6, 8, 0.753); 
+        
+        bottom: 4%;
+        left: 20%;
+        
+        position: absolute; 
+            
+        border-radius: 10%; 
+            
+        }
+        
+    #cover-quote {
+        width: 63%;
+        height: 21%;
+            
+        padding-top: 4%;
+        padding-left: 1%;
+        padding-right: 1%;
+            
+        background-color: rgba(6, 6, 8, 0.753); 
+            
+        bottom: 15%;
+        left: 37%;
+                
+            
+        position: absolute; 
+            
+        border-radius: 10%;
         } 
+    
 }
 
 
