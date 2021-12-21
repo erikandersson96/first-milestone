@@ -27,17 +27,17 @@ h1, h2 {
 
 #logo {
     float: left; 
-    font-size: 250%;
+    font-size: 260%;
     margin-left: 5px;
 } 
 
 #menu {
-    font-size: 110%;
+    font-size: 120%;
     letter-spacing: 1px;
 } 
 
 #menu, #logo {
-    line-height: 45px;
+    line-height: 50px;
 }
 
 #menu li {
@@ -743,16 +743,16 @@ footer {
 
     #logo {
         float: left;
-        font-size: 200%;
+        font-size: 220%;
     } 
 
     #menu {
-        font-size: 110%;
+        font-size: 115%;
         letter-spacing: 1px;
     } 
 
     #menu, #logo {
-        line-height: 40px;
+        line-height: 50px;
     }
         
 }
@@ -864,7 +864,7 @@ footer {
 
     #logo {
         float: left;
-        font-size: 180%;
+        font-size: 212%;
     } 
 
     #menu li {
@@ -881,7 +881,7 @@ footer {
 @media screen and (max-width: 650px) {
     #logo {
         float: left;
-        font-size: 128%;
+        font-size: 180%;
     }
     
     #menu {
@@ -890,7 +890,7 @@ footer {
     } 
 
     #menu, #logo {
-        line-height: 30px;
+        line-height: 50px;
     }
 
     #menu li {
@@ -1009,11 +1009,11 @@ footer {
 
     #logo {
         float: left;
-        font-size: 110%;
+        font-size: 145%;
         } 
 
     #menu {
-        font-size: 95%;
+        font-size: 100%;
         letter-spacing: 1px;
         }
 
@@ -1090,6 +1090,20 @@ footer {
         } 
     
     
+} 
+
+
+/* For screen size 400px and down */
+@media screen and (max-width: 400px) {
+    #logo {
+        float: left;
+        font-size: 125%;
+        } 
+
+    #menu {
+        font-size: 95%;
+        letter-spacing: 1px;
+        }
 }
 
 
@@ -1097,12 +1111,12 @@ footer {
 @media screen and (max-width: 355px) {
     #logo {
         float: left;
-        font-size: 105%;
+        font-size: 115%;
         } 
 
     #menu {
         font-size: 90%;
-        letter-spacing: 0.4px;
+        letter-spacing: 1px;
         }
 
     #menu li {
@@ -1183,6 +1197,19 @@ footer {
         border-radius: 10%;
         } 
     
+}
+
+/* For screen size 320px and down */
+@media screen and (max-width: 320px) {
+    #logo {
+        float: left;
+        font-size: 100%;
+        } 
+
+    #menu {
+        font-size: 80%;
+        letter-spacing: 1px;
+        }
 }
 
 
