@@ -650,7 +650,7 @@ footer {
         } 
 
     input {
-        width: 50px;
+        width: 130px;
     }
 
 
@@ -1209,7 +1209,28 @@ footer {
     #menu {
         font-size: 80%;
         letter-spacing: 1px;
+        } 
+
+    #price-info {
+        width: 75%;
+        height: 25%;
+                    
+        padding-top: 2%;
+        padding-left: 1%;
+        padding-right: 2%;
+                    
+        background-color: rgba(6, 6, 8, 0.753); 
+                    
+        bottom: 20%;
+        left: 50%;
+        top: 20%;
+                        
+                    
+        position: absolute; 
+                    
+        border-radius: 10%;
         }
+
 }
 
 
