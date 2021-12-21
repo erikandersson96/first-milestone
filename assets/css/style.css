@@ -187,11 +187,13 @@ footer {
 }
 
 
-#button-about-us:hover, #button-submit:hover {
+#button-about-us, #button-submit:hover {
     background-color: #fff;
     color: #000000;
     border: 1px solid #000000;
 } 
+
+
 
 
 /* Price information on Get in touch page */
