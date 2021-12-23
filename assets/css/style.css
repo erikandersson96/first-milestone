@@ -503,25 +503,13 @@ footer {
 
 /* For screen size 950px and down, Nav bar center */
 @media screen and (max-width: 950px) {
-    #menu li {
-        float: right;
-        list-style: none;
-        margin-right: 30px;
-    } 
-
     #logo {
-        float: left;
         font-size: 220%;
     } 
 
     #menu {
         font-size: 115%;
-        letter-spacing: 1px;
     } 
-
-    #menu, #logo {
-        line-height: 50px;
-    }
         
 }
 
