@@ -574,116 +574,76 @@ footer {
     #logo {
         font-size: 212%;
     }
-         
+
 } 
 
 
 /* For screen size 650px and down */
 @media screen and (max-width: 650px) {
     #logo {
-        float: left;
         font-size: 180%;
     }
     
+
     #menu {
         font-size: 110%;
-        letter-spacing: 1px;
     } 
 
-    #menu, #logo {
-        line-height: 50px;
-    }
 
     #menu li {
-        float: right;
-        list-style: none;
         margin-right: 15px; 
     } 
 
+
     #cover-quote {
-        width: 38%;
+        width: 42%;
         height: 21%;
         
         padding-top: 2%;
-        padding-left: 1%;
-        padding-right: 1%;
         
-        background-color: rgba(6, 6, 8, 0.753); 
-        
-        bottom: 15%;
         left: 30%;
-            
-        
-        position: absolute; 
-        
-        border-radius: 10%;
         }
+
 
     #about-us-cover {
         font-size: 11px;
-        font-family: "Open Sans", sans-serif;
-        letter-spacing: 1px;
-        text-align: left;
-                
+               
         width: 68%;
         height: 43%;
                 
-        padding-top: 4%;
-        padding-left: 2%;
-        padding-right: 2%;
-                
-        background-color: rgba(6, 6, 8, 0.753); 
+        padding-top: 4%; 
                 
         bottom: 27%;
         left: 14%;
-                
-        position: absolute; 
-                    
-        border-radius: 10%;
         }
+     
         
     #price-info {
         width: 50%;
-        height: 21%;
+        height: 23%;
             
         padding-top: 2%;
-        padding-left: 1%;
         padding-right: 2%;
             
-        background-color: rgba(6, 6, 8, 0.753); 
-            
-        bottom: 15%;
         left: 50%;
         top: 20%;
-                
-            
-        position: absolute; 
-            
-        border-radius: 10%;
         }
         
     #get-in-touch-cover {
         font-size: 5px;
-        font-family: "Open Sans", sans-serif;
                     
         width: 38%;
-        height: 52%;
+        height: 57%;
                 
         padding-top: 5%;
         padding-left: 3%;
         padding-right: 3%;
         padding-bottom: 1%;
                 
-        background-color: rgba(6, 6, 8, 0.753); 
-                
         bottom: 4%;
         left: 28%;
-                
-        position: absolute; 
-                    
-        border-radius: 10%; 
-                    
         } 
+        
 } 
 
 
