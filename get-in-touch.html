@@ -47,7 +47,7 @@
             <h2 class="form-get-in-touch">Get in touch</h2>
               <br> 
                 <!-- Contact form -->
-                   <form id="contact-form" method="POST" action="">
+                   <form id="contact-form" method="GET" action="">
 
                        First Name: * <br>
                        <input type="text" id="fname" name="fname" placeholder="First name.." required><br><br>
@@ -56,21 +56,23 @@
                        <input type="text" id="lname" name="lname" placeholder="Last name.." required><br><br>
 
                        Email-adress: * <br>
-                       <input type="text" id="email" name="email" placeholder="Your e-mail.." required><br><br> 
+                       <input type="email" id="email" name="email" placeholder="Your e-mail.." required><br><br> 
 
                        Brand of your watch: * <br>
                        <input type="text" id="brand" name="brand" placeholder="Which brand.." required><br><br> 
 
                        Your budget(€): * <br>
-                       <input type="text" id="budget" name="budget" placeholder="Budget.." required><br><br> 
+                       <input type="number" id="budget" name="budget" placeholder="Budget.." required><br><br> 
 
                        Details about your watch: * <br>
                        (Year, condition, is it functional?)
-                       <textarea name="comment" id="comment" placeholder="Enter your details here.." required></textarea> 
+                       <textarea name="comment" id="comment" placeholder="Enter your details here.." required></textarea><br>
+
+                    <!-- Call to action button, SUBMIT -->
+                   <button id="button-submit" type="submit">SUBMIT</button> 
 
                    </form> 
-                   <!-- Call to action button, SUBMIT -->
-                   <button id="button-submit" type="submit">SUBMIT</button> 
+                   
 
          </div>
                 

@@ -16,6 +16,10 @@ body {
     font-weight: lighter;
 } 
 
+#contact-form input {
+    width: 100%;
+}
+
 /* Headings and logo */ 
 
 h1, h2 {
