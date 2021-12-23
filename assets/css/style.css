@@ -720,14 +720,13 @@ footer {
 /* For screen size 400px and down */
 @media screen and (max-width: 400px) {
     #logo {
-        float: left;
         font-size: 123%;
         } 
 
     #menu {
         font-size: 93%;
-        letter-spacing: 1px;
         }
+        
 }
 
 
