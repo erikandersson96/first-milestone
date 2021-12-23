@@ -12,7 +12,7 @@ Take a look here
 
 ### Intention 
 
-This website is a fictional website for the purpose of my First Milestone Project for Code Institute’s Full Stack Software Developer Course. I created this website with the knowledge I gained from the HTML and CSS modules of the course. 
+This website is a fictional website for the purpose of my First Milestone Project for Code Institute’s Full Stack Software Developer Course. I created this website with the knowledge I gained from the HTML and CSS modules. 
 
 The main goal of this project was to create a website for people to easily get in contact with a professional wristwatch company that services and cleans used watches for their customers. 
 
