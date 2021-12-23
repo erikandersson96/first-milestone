@@ -268,6 +268,10 @@ footer {
     position: relative;
 } 
 
+#comment {
+    position: relative;
+}
+
 
 
 
@@ -313,9 +317,6 @@ footer {
         
     }
 
-    #comment {
-        position: relative;
-    } 
 
     #price-info {
         height: 30%;
@@ -341,80 +342,42 @@ footer {
 /* For smaller desktop size 1200px and down */
 @media screen and (max-width: 1200px) {
     #get-in-touch-cover {
-    font-size: 13.5px;
-    font-family: "Open Sans", sans-serif;
-    letter-spacing: 1px;
-    
+        font-size: 8px;
+        width: 20%;
+        height: 58%;
 
-    width: 15%;
-    height: 56%;
+        padding-top: 3%;
+        padding-left: 3%;
+        padding-right: 3%;
 
-    padding-top: 3%;
-    padding-left: 3%;
-    padding-right: 3%;
-
-    background-color: rgba(6, 6, 8, 0.753); 
-
-    bottom: 20%;
-    left: 41.5%;
-
-    position: absolute; 
-    
-    border-radius: 10%;
     }  
     
 
     #contact-form {
-        color: #fff;
         font-size: 14px;
-        position: relative;
+
     }
 
-    #comment {
-        position: relative;
-    } 
-
-
+    
     #about-us-cover {
         font-size: 12.5px;
-        font-family: "Open Sans", sans-serif;
-        letter-spacing: 1px;
-        text-align: 50%;
-    
+        
         width: 34%;
         height: 49%;
     
-        padding-top: 2%;
-        padding-left: 2%;
-        padding-right: 3%;
-    
-        background-color: rgba(6, 6, 8, 0.753); 
+        padding-right: 3%; 
     
         bottom: 25%;
         left: 31%;
     
-        position: absolute; 
-        
-        border-radius: 10%;
     } 
 
     #price-info {
         width: 34%;
         height: 30%;
     
-        padding-top: 1%;
-        padding-left: 1%;
-        padding-right: 1%;
-    
-        background-color: rgba(6, 6, 8, 0.753); 
-    
-        bottom: 15%;
         left: 20%;
         
-    
-        position: absolute; 
-    
-        border-radius: 10%;
     } 
 
 } 
@@ -423,61 +386,33 @@ footer {
 /* For medium desktop screen size 1145px and down */
 @media screen and (max-width: 1145px) {
     #get-in-touch-cover {
-    font-size: 10px;
-    font-family: "Open Sans", sans-serif;
+        font-size: 8px;
     
+        width: 20%;
+        height: 60%;
+
+        padding-top: 3%;
+        padding-left: 3%;
+        padding-right: 4%;
     
-    width: 15%;
-    height: 56%;
-
-    padding-top: 3%;
-    padding-left: 3%;
-    padding-right: 4%;
-    
-
-    background-color: rgba(6, 6, 8, 0.753); 
-
-    bottom: 20%;
-    left: 41.5%;
-
-    position: absolute; 
-    
-    border-radius: 10%;
     }  
     
 
     #contact-form {
-        color: #fff;
         font-size: 14px;
-        position: relative;
+        
     }
-
-    #comment {
-        position: relative;
-    } 
 
 
     #about-us-cover {
-        font-size: 12.5px;
-        font-family: "Open Sans", sans-serif;
-        letter-spacing: 1px;
-        text-align: 50%;
-    
         width: 37%;
         height: 49%;
     
-        padding-top: 2%;
-        padding-left: 2%;
         padding-right: 3%;
-    
-        background-color: rgba(6, 6, 8, 0.753); 
     
         bottom: 25%;
         left: 28%;
     
-        position: absolute; 
-        
-        border-radius: 10%;
     } 
 
 } 
