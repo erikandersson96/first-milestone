@@ -202,7 +202,7 @@ footer {
 
 /* Price information on Get in touch page */
  
-#price-info h1 {
+#price-info h2 {
     color: #fff;
     font-size: large;
 }
@@ -704,7 +704,7 @@ footer {
         border-radius: 10%;
     } 
 
-    #price-info h1 {
+    #price-info h2 {
         color: #fff;
         font-size: small;
     } 
