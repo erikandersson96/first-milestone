@@ -237,7 +237,7 @@ footer {
     
 
     width: 13.5%;
-    height: 55%;
+    height: 60%;
 
     padding-top: 2%;
     padding-left: 2%;
@@ -265,7 +265,10 @@ footer {
 #contact-form {
     color: #fff;
     font-size: 15px;
-}
+    position: relative;
+} 
+
+
 
 
 /* Media queries */
@@ -273,69 +276,20 @@ footer {
 /* For big desktop to larger desktop screen size 1699px and down */
 @media screen and (max-width: 1699px) {
     #get-in-touch-cover {
-    font-size: 13.5px;
-    font-family: "Open Sans", sans-serif;
-    letter-spacing: 1px;
-    
-
     width: 15%;
-    height: 55%;
-
-    padding-top: 2%;
-    padding-left: 2%;
-    padding-right: 2%;
-
-    background-color: rgba(6, 6, 8, 0.753); 
-
-    bottom: 20%;
-    left: 41.5%;
-
-    position: absolute; 
     
-    border-radius: 10%;
+    
     } 
     
     #price-info {
-        width: 30%;
-        height: 27%;
+    height: 27%;
     
-        padding-top: 1%;
-        padding-left: 1%;
-        padding-right: 1%;
-    
-        background-color: rgba(6, 6, 8, 0.753); 
-    
-        bottom: 15%;
-        left: 17%;
-        
-    
-        position: absolute; 
-    
-        border-radius: 10%;
     } 
 
   
     #about-us-cover {
-        font-size: 13px;
-        font-family: "Open Sans", sans-serif;
-        letter-spacing: 1px;
-        text-align: 50%;
-    
-        width: 30%;
         height: 46%;
     
-        padding-top: 2%;
-        padding-left: 2%;
-        padding-right: 2%;
-    
-        background-color: rgba(6, 6, 8, 0.753); 
-    
-        bottom: 30%;
-        left: 35%;
-    
-        position: absolute; 
-        
-        border-radius: 10%;
     } 
 
 } 
@@ -344,33 +298,19 @@ footer {
 /* For larger desktop to medium desktop screen size 1650px and down */
 @media screen and (max-width: 1650px) {
     #get-in-touch-cover {
-    font-size: 13.5px;
-    font-family: "Open Sans", sans-serif;
-    letter-spacing: 1px;
-    
-
     width: 15%;
-    height: 55%;
+    height: 61%;
 
     padding-top: 3%;
     padding-left: 3%;
     padding-right: 3%;
 
-    background-color: rgba(6, 6, 8, 0.753); 
-
-    bottom: 20%;
-    left: 41.5%;
-
-    position: absolute; 
-    
-    border-radius: 10%;
     }  
     
 
     #contact-form {
-        color: #fff;
         font-size: 14px;
-        position: relative;
+        
     }
 
     #comment {
@@ -378,45 +318,21 @@ footer {
     } 
 
     #price-info {
-        width: 30%;
         height: 30%;
     
-        padding-top: 1%;
-        padding-left: 1%;
-        padding-right: 1%;
-    
-        background-color: rgba(6, 6, 8, 0.753); 
-    
-        bottom: 15%;
-        left: 17%;
-        
-    
-        position: absolute; 
-    
-        border-radius: 10%;
     } 
 
     #about-us-cover {
         font-size: 12.5px;
-        font-family: "Open Sans", sans-serif;
-        letter-spacing: 1px;
-        text-align: 50%;
-    
+        
         width: 33%;
         height: 48%;
     
-        padding-top: 2%;
-        padding-left: 2%;
         padding-right: 3%;
-    
-        background-color: rgba(6, 6, 8, 0.753); 
     
         bottom: 25%;
         left: 30%;
     
-        position: absolute; 
-        
-        border-radius: 10%;
     } 
 
 } 
