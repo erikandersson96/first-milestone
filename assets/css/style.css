@@ -264,7 +264,7 @@ footer {
 
 #contact-form {
     color: #fff;
-    font-size: 15px;
+    font-size: 14px;
     position: relative;
 } 
 
@@ -312,12 +312,6 @@ footer {
     }  
     
 
-    #contact-form {
-        font-size: 14px;
-        
-    }
-
-
     #price-info {
         height: 30%;
     
@@ -352,13 +346,7 @@ footer {
 
     }  
     
-
-    #contact-form {
-        font-size: 14px;
-
-    }
-
-    
+  
     #about-us-cover {
         font-size: 12.5px;
         
@@ -398,12 +386,6 @@ footer {
     }  
     
 
-    #contact-form {
-        font-size: 14px;
-        
-    }
-
-
     #about-us-cover {
         width: 37%;
         height: 49%;
@@ -424,54 +406,24 @@ footer {
 @media screen and (max-width: 1045px) {
     #get-in-touch-cover {
         font-size: 10px;
-        font-family: "Open Sans", sans-serif;
-    
     
         width: 15%;
-        height: 55%;
+        height: 56%;
 
         padding-top: 3%;
         padding-left: 3%;
         padding-right: 4%;
         padding-bottom: 3%;
 
-        background-color: rgba(6, 6, 8, 0.753); 
-
-        bottom: 20%;
-        left: 41.5%;
-
-        position: absolute; 
-    
-        border-radius: 10%;
     }  
     
-
-    #contact-form {
-        color: #fff;
-        font-size: 14px;
-        position: relative;
-    }
-
-    #comment {
-        position: relative;
-    } 
 
     #price-info {
         width: 32%;
         height: 31%;
     
-        padding-top: 1%;
-        padding-left: 1%;
-        padding-right: 1%;
-    
-        background-color: rgba(6, 6, 8, 0.753); 
-    
-        bottom: 15%;
         left: 20%;
         
-        position: absolute; 
-    
-        border-radius: 10%;
     } 
 
 
@@ -479,19 +431,8 @@ footer {
         width: 30%;
         height: 17%;
     
-        padding-top: 1%;
-        padding-left: 1%;
-        padding-right: 1%;
-    
-        background-color: rgba(6, 6, 8, 0.753); 
-    
-        bottom: 15%;
         left: 21.5%;
         
-    
-        position: absolute; 
-    
-        border-radius: 10%;
     }
         
 
