@@ -726,98 +726,65 @@ footer {
     #menu {
         font-size: 93%;
         }
-        
+
 }
 
 
 /* For screen size 355px and down */
 @media screen and (max-width: 355px) {
     #logo {
-        float: left;
         font-size: 115%;
         } 
 
+
     #menu {
         font-size: 90%;
-        letter-spacing: 1px;
         }
 
+
     #menu li {
-        float: right;
-        list-style: none;
         margin-right: 5px; 
         }
+    
         
     .social-media-links i {
         font-size: 150%;
-        margin: 1%;
-        padding: 1%;
-        color: #000000;
         } 
         
     #about-us-cover {
         font-size: 11px;
-        font-family: "Open Sans", sans-serif;
-        letter-spacing: 1px;
-        text-align: left;
                 
         width: 82%;
         height: 54%;
                 
         padding-top: 4%;
-        padding-left: 2%;
-        padding-right: 2%;
-                
-        background-color: rgba(6, 6, 8, 0.753); 
                 
         bottom: 25%;
-        left: 9%;
-                
-        position: absolute; 
-                    
-        border-radius: 10%;
+        left: 6%;
         }
 
     #get-in-touch-cover {
         font-size: 5px;
-        font-family: "Open Sans", sans-serif;
             
-        width: 57%;
-        height: 50%;
+        width: 70%;
+        height: 58%;
         
-        padding-top: 2%;
         padding-left: 3%;
         padding-right: 3%;
         padding-bottom: 2%;
         
-        background-color: rgba(6, 6, 8, 0.753); 
-        
-        bottom: 4%;
-        left: 20%;
-        
-        position: absolute; 
-            
-        border-radius: 10%; 
-            
+        bottom: 6%;
+        left: 12%;   
         }
+
         
     #cover-quote {
         width: 63%;
         height: 21%;
             
         padding-top: 4%;
-        padding-left: 1%;
-        padding-right: 1%;
             
-        background-color: rgba(6, 6, 8, 0.753); 
-            
-        bottom: 15%;
         left: 37%;
-                
-            
-        position: absolute; 
-            
-        border-radius: 10%;
         } 
     
 }
