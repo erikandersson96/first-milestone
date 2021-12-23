@@ -191,7 +191,7 @@ footer {
 }
 
 
-#button-about-us, #button-submit:hover {
+#button-about-us:hover, #button-submit:hover {
     background-color: #fff;
     color: #000000;
     border: 1px solid #000000;
