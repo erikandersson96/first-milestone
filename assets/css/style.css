@@ -643,7 +643,7 @@ footer {
         bottom: 4%;
         left: 28%;
         } 
-        
+
 } 
 
 
@@ -654,57 +654,36 @@ footer {
         height: 21%;
         
         padding-top: 4%;
-        padding-left: 1%;
-        padding-right: 1%;
         
-        background-color: rgba(6, 6, 8, 0.753); 
-        
-        bottom: 15%;
         left: 37%;
-            
-        
-        position: absolute; 
-        
-        border-radius: 10%;
         } 
 
+
     #logo {
-        float: left;
         font-size: 145%;
         } 
 
+
     #menu {
         font-size: 100%;
-        letter-spacing: 1px;
         }
 
+
     #menu li {
-        float: right;
-        list-style: none;
         margin-right: 8px; 
         } 
 
+
     #about-us-cover {
         font-size: 11px;
-        font-family: "Open Sans", sans-serif;
-        letter-spacing: 1px;
-        text-align: left;
             
         width: 82%;
         height: 46%;
             
         padding-top: 4%;
-        padding-left: 2%;
-        padding-right: 2%;
-            
-        background-color: rgba(6, 6, 8, 0.753); 
             
         bottom: 25%;
         left: 8%;
-            
-        position: absolute; 
-                
-        border-radius: 10%;
         } 
 
     #price-info {
@@ -712,44 +691,28 @@ footer {
         height: 21%;
                 
         padding-top: 2%;
-        padding-left: 1%;
-        padding-right: 2%;
-                
-        background-color: rgba(6, 6, 8, 0.753); 
+        padding-right: 2%; 
                 
         bottom: 20%;
         left: 50%;
         top: 20%;
-                    
-                
-        position: absolute; 
-                
-        border-radius: 10%;
         }
+
 
     #get-in-touch-cover {
         font-size: 5px;
-        font-family: "Open Sans", sans-serif;
-                
-        width: 48%;
-        height: 50%;
+                 
+        width: 65%;
+        height: 60%;
             
         padding-top: 4%;
         padding-left: 3%;
         padding-right: 3%;
         padding-bottom: 2%;
             
-        background-color: rgba(6, 6, 8, 0.753); 
-            
         bottom: 4%;
-        left: 23%;
-            
-        position: absolute; 
-                
-        border-radius: 10%; 
-                
+        left: 15%;    
         } 
-    
     
 } 
 
@@ -758,11 +721,11 @@ footer {
 @media screen and (max-width: 400px) {
     #logo {
         float: left;
-        font-size: 125%;
+        font-size: 123%;
         } 
 
     #menu {
-        font-size: 95%;
+        font-size: 93%;
         letter-spacing: 1px;
         }
 }
