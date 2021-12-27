@@ -270,7 +270,7 @@ footer {
     position: relative;
 } 
 
-#contact-form input {
+#contact-form input, #comment {
     width: 100%;
 }
 
