@@ -12,7 +12,7 @@ Take a look [here](https://erikandersson96.github.io/first-milestone/index.html)
 
 ## Milestone Project One 
 
----
+
 
 ### Intention 
 
@@ -31,8 +31,7 @@ The main goal of this project was to create a website for people to easily get i
 
 
 ## Table of Contents 
----
-
+----
 * UX 
   * Visitor Goals 
 
@@ -182,7 +181,7 @@ This represents the Text Overlays, notice that it is transparent.
 
 
 ## Future Features 
---- 
+ 
 
 ### Learning Points 
 
