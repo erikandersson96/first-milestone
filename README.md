@@ -290,4 +290,33 @@ I changed every font to the correct spelling (from Open+Sans to “Open Sans”)
 
 Here you can take a look at the CSS parse error I got:  
 
-![Screenshot of CSS jigsaw validation error](/assets/images/css-validator-error.png)
+![Screenshot of CSS jigsaw validation error](/assets/images/css-validator-error.png) 
+
+
+
+### Lighthouse - Dev Tool 
+I used Chrome lighthouse dev tool to test the website performance. I’ve got an average result of 98,6% for desktop and 90% for mobile devices. 
+
+**Home Page (desktop)** 
+
+![Screenshot home page in ligthouse](/assets/images/css-validator-error.png) 
+
+**About us Page (desktop)** 
+
+![Screenshot about us page in lighthouse](/assets/images/css-validator-error.png) 
+
+**Get in touch Page (desktop)** 
+
+![Screenshot get in touch page in lighthouse](/assets/images/css-validator-error.png) 
+
+**Home Page (mobile)** 
+
+![Screenshot home page in lighthouse for mobile](/assets/images/css-validator-error.png)
+
+**About us (mobile)** 
+
+![Screenshot home page in lighthouse for mobile](/assets/images/css-validator-error.png) 
+
+**Get in touch (mobile)** 
+
+![Screenshot home page in lighthouse for mobile](/assets/images/css-validator-error.png) 
