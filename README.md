@@ -107,6 +107,7 @@ I chose four different colors for the website. Black, White, and medium-light gr
 ![A white box with a thin grey border around it, to visualise the color]()
 
 
+---
 
 ## Existing Features 
 ---
