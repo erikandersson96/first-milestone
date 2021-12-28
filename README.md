@@ -292,31 +292,33 @@ Here you can take a look at the CSS parse error I got:
 
 ![Screenshot of CSS jigsaw validation error](/assets/images/css-validator-error.png) 
 
-
+--- 
 
 ### Lighthouse - Dev Tool 
 I used Chrome lighthouse dev tool to test the website performance. I’ve got an average result of 98,6% for desktop and 90% for mobile devices. 
 
 **Home Page (desktop)** 
 
-![Screenshot home page in ligthouse](/assets/images/css-validator-error.png) 
+![Screenshot home page in ligthouse](/assets/images/home-lighthouse.png) 
 
 **About us Page (desktop)** 
 
-![Screenshot about us page in lighthouse](/assets/images/css-validator-error.png) 
+![Screenshot about us page in lighthouse](/assets/images/about-us-lighthouse.png) 
 
 **Get in touch Page (desktop)** 
 
-![Screenshot get in touch page in lighthouse](/assets/images/css-validator-error.png) 
+![Screenshot get in touch page in lighthouse](/assets/images/get-in-touch-lighthouse.png) 
+
+---
 
 **Home Page (mobile)** 
 
-![Screenshot home page in lighthouse for mobile](/assets/images/css-validator-error.png)
+![Screenshot home page in lighthouse for mobile](/assets/images/home-lighthouse2.png)
 
 **About us (mobile)** 
 
-![Screenshot home page in lighthouse for mobile](/assets/images/css-validator-error.png) 
+![Screenshot home page in lighthouse for mobile](/assets/images/about-us-lighthouse2.png) 
 
 **Get in touch (mobile)** 
 
-![Screenshot home page in lighthouse for mobile](/assets/images/css-validator-error.png) 
+![Screenshot home page in lighthouse for mobile](/assets/images/get-in-touch-lighthouse2.png) 
