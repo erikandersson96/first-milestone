@@ -141,6 +141,7 @@ This represents the Text Overlays, notice that it is transparent.
 
 ![Screenshot of the Navigation bar]('../assets/images/navbar-image.png')
 
+---
 ### Landing Page Image  
 
 * The landing page includes an image of a watch with a black background to make it stand out. The Background image is used for all three pages. I used Text Overlay to create a nice effect to the background containing a text with: “Life is too short to waste on a great watch. - So give it all the love it truly deserves!”. 
@@ -149,17 +150,18 @@ This represents the Text Overlays, notice that it is transparent.
 
 ![Screenshot of Landing Page]('../assets/images/landing-page.png')
 
-
-
+---
 ### Footer 
 
 * The footer includes all the social media links to the relevant social platform. The links will open in a new tab to not confuse the user, or open each social platform application on the device if the user interacts on a mobile device or tablet. 
 
 ![Screenshot of Footer]('../assets/images/footer-image.png')
 
-
+---
 ### About us Page 
 
 * The about us page is to inform the user about the business and what we aim to achieve in the services we provide to our customers. This is also created with Text Overlay to make it stand out from the background image without hiding it.
 
-* I also added a Call to Action Button underneath the About us text to make sure the user takes action and goes directly to the contact form. 
+* I also added a Call to Action Button underneath the About us information to direct the user to the contact form directly. 
+
+![Screenshot of About us page]('../assets/images/about-us-page.png')
