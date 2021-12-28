@@ -153,11 +153,9 @@ This represents the Text Overlays, notice that it is transparent.
 
 ### Footer 
 
-* The footer includes all the social media links to the relevant Social platform. The links will open in a new tab to not confuse the user. 
+* The footer includes all the social media links to the relevant social platform. The links will open in a new tab to not confuse the user, or open each social platform application on the device if the user interacts on a mobile device or tablet. 
 
-
-
-(screenshot footer)
+![Screenshot of Footer]('../assets/images/footer-image.png')
 
 
 ### About us Page 
