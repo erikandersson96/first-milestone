@@ -58,6 +58,7 @@ The main goal of this project was to create a website for people to easily get i
   * Fixed Bugs 
   * Unfixed Bugs 
 
+
 * Deployment
   * Creating My Website 
   * GitHub Pages 
@@ -209,3 +210,35 @@ This represents the Text Overlays, notice that it is transparent.
 * The Submit button in the Contact form shows a hover effect when hovered with a mouse. 
 
 
+### Devices 
+Something thats worth mentioning is that I've tested the majority of these devices within Chrome dev tool, I have not had physical access to test these devices. 
+I have tested the responsiveness and aesthetics on the following devices and browsers: 
+
+* **Apple** 
+(Some features of the site, such as the Get in touch button on the About us page and the Submit button on Get in touch might not look the same depending on which ios update the user has installed. But ios 15 will work correctly) 
+
+  * iPhone 5/SE 
+  * iPhone 6/7/8 
+  * iPhone 6/7/8 Plus 
+  * iPhone X/11 
+  * iPad 
+  * iPad Pro 
+
+* **Android** 
+  * Samsung Galaxy S5 
+  * Microsoft Surface Duo 
+
+* **Google Devices** 
+  * Google Nest Hub 
+  * Google Nest Hub Max 
+
+* **Motorola**
+  * Moto G4 
+
+* **Desktops/laptops**
+  * MacBook Pro 13" 
+  * Lenovo 24" monitor 
+
+* **Browsers**
+  * Chrome 
+  * Safari 
