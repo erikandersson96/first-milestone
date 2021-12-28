@@ -186,7 +186,7 @@ This represents the Text Overlays, notice that it is transparent.
 * The way I structured my Media Screen size breakpoints will improve for future projects. When I ran the W3C CSS Validator I got a ton of errors because I had included attributes in every @media query even if they were not changed between screen sizes which resulted in 287 parse errors, but they are all fixed now. 
 
 
-
+---
 ## Testing 
 
 * All pages have been tested across all screen sizes for a responsive experience. The layout of the different elements on each page may have different positions to make it look good on each screen size. 
