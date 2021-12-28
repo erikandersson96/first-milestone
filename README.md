@@ -191,3 +191,21 @@ This represents the Text Overlays, notice that it is transparent.
 * I also learned when git commit a message in Gitpod I should have only included what was relevant to that commit. I may have committed a message which included more changes than I added in that exact commit message, not only once but a couple of times. This is something that I will improve in my next project to be more consistent and correct with my commit messages. 
 
 * The way I structured my Media Screen size breakpoints will improve for future projects. When I ran the W3C CSS Validator I got a ton of errors because I had included attributes in every @media query even if they were not changed between screen sizes which resulted in 287 parse errors, but they are all fixed now. 
+
+
+
+## Testing 
+
+* All pages have been tested across all screen sizes for a responsive experience. The layout of the different elements on each page may have different positions to make it look good on each screen size. 
+
+* I used validators to ensure that my code was correct and up to standard. I did this with the use of W3C validator for HTML and Jigsaw Validator for CSS. 
+
+* I made sure that the website looks good down to a screen size of 300px wide. 
+
+* All links to external websites open in a new browser. 
+
+* All nav links show with an underline which page you are on, and it also shows an underline on the nav link that you hover over with a mouse. 
+
+* The Submit button in the Contact form shows a hover effect when hovered with a mouse. 
+
+
