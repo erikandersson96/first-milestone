@@ -402,6 +402,8 @@ This is all done to prevent any Data loss in case Gitpod crashes.
 
 **First background image:** 
 
-![First hero image, before I changed](/assets/images/first-hero-image.jpg) 
+![First background image, before I changed](/assets/images/first-hero-image.jpg) 
 
+**The background image I choose to go for beacuse I thought it looked better:** 
 
+![Background image I choose](/assets/images/hero-image.jpg)
