@@ -34,37 +34,37 @@ The main goal of this project was to create a website for people to easily get i
 ---
 
 * UX 
- * Visitor Goals 
+  * Visitor Goals 
 
 * Website Design 
- * Color Scheme 
- * Fonts 
+  * Color Scheme 
+  * Fonts 
 
 * Existing Features 
- * Navigation Bar 
- * Landing Page (Hero image)
- * Footer 
- * About us 
- * Get in touch 
+  * Navigation Bar 
+  * Landing Page (Hero image)
+  * Footer 
+  * About us 
+  * Get in touch 
 
 * Future Features 
- * Learning Points 
+  * Learning Points 
 
 * Testing 
- * Devices 
- * Validator Testing 
- * Lighthouse - Dev Tool 
- * Wave Page 
- * Fixed Bugs 
- * Unfixed Bugs 
+  * Devices 
+  * Validator Testing 
+  * Lighthouse - Dev Tool 
+  * Wave Page 
+  * Fixed Bugs 
+  * Unfixed Bugs 
 
 * Deployment
- * Creating My Website 
- * GitHub Pages 
+  * Creating My Website 
+  * GitHub Pages 
 
 * Credits 
- * Content 
- * Media 
+  * Content 
+  * Media 
 
 * Support 
 
@@ -116,7 +116,6 @@ This represents the Text Overlays, notice that it is transparent.
 
 ![A transparent box]('../assets/images/transparent-box.png')
 
----
 
 ### Fonts 
 
@@ -138,17 +137,17 @@ This represents the Text Overlays, notice that it is transparent.
 ### Navigation Bar 
 
 * Used for all three pages. Consisting of one Unordered List containing 
-  Home, About us, Get in touch. 
+  Home | About us | Get in touch. 
 
-  (screenshot navigation bar)
+![Screenshot of the Navigation bar]('../assets/images/navbar-image.png')
 
 ### Landing Page Image  
 
-* The landing page includes an image of a watch with a black background to make it stand out. The Background image is used on all three pages. I used Text Overlay to create a nice effect to the background containing a text with: “Life is too short to waste on a great watch. - So give it all the love it truly deserves!”. 
+* The landing page includes an image of a watch with a black background to make it stand out. The Background image is used for all three pages. I used Text Overlay to create a nice effect to the background containing a text with: “Life is too short to waste on a great watch. - So give it all the love it truly deserves!”. 
 
 * This creates an eye-catching animation to grab the user's attention. 
 
-(screenshot first page hero image)
+![Screenshot of Landing Page]('../assets/images/landing-page.png')
 
 
 
