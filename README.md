@@ -329,4 +329,46 @@ I used Chrome lighthouse dev tool to test the website performance. I’ve got an
 
 Each page has been tested through wave.webaim.org for accessibility.
 
-* You can look at the results [here](https://erikandersson96.github.io/first-milestone/index.html) (opens in new tab).
+* You can look at the results [here](https://erikandersson96.github.io/first-milestone/index.html) (opens in new tab). 
+
+
+--- 
+
+## Fixed Bugs 
+
+I validated my CSS and found 287 parse errors. This was because I had written Open+Sans instead of “Open Sans”. As a result of the 287 parse errors, I realized that I was inefficient with my CSS and refactored the Media Queries to only include code that had been changed. 
+
+When I was running Wave Page I got 6 label errors for my contact form. This is because I had written my HTML for the contact form in the wrong way without correct labels. I corrected this by rewriting my HTML code for the contact form, with a correct label for each input field.  
+
+
+--- 
+
+## Unfixed Bugs 
+
+When a user visits the website on an Apple mobile or tablet device with an older iOS update than iOS 15. They might not view the “About us” page call to action button that directs users to the contact form at the “Get in touch” page the same as on a desktop and other mobile devices. The call to action button should be within the Text Overlay that contains the About us information.
+
+When I searched for a solution to this on the Internet I couldn’t figure out what caused this so I decided that I will leave it as an unfixed bug. 
+
+
+--- 
+
+## Deployment 
+
+### Creating My Website 
+
+When I created this website I used the Code Institute Gitpod Full Template. 
+
+I frequently used commits throughout the whole project, this is the commands used in the terminal:  
+
+git add . (This command is used for adding files to the staging area before committing). 
+
+git commit -m “commit message here..” (This is used to label the commit changes made to the local repository). 
+
+git push (This command is used to push all changes to the Github repository). 
+
+This is all done to prevent any Data loss in case Gitpod crashes. 
+
+
+--- 
+
+
