@@ -392,3 +392,16 @@ This is all done to prevent any Data loss in case Gitpod crashes.
 * The design of the Navigation Bar was taken as inspiration from the Love Running project. 
 * The footer was also taken as inspiration from the Love Running project. But the icons for the different social media was taken from [Font Awesome](https://fontawesome.com/).
 * The fonts were taken from [Pair Fonts](https://pairfonts.com/).
+
+
+
+### Media 
+
+* The Background Image (Hero image) was taken from [Pixa bay](https://pixabay.com/). 
+* I changed the background image one time since the original image made the contrast look bad. Because I chose to go with only Black and White text. The first image was also taken from [Pixa bay](https://pixabay.com/). 
+
+**First background image:** 
+
+![First hero image, before I changed](/assets/images/first-hero-image.jpg) 
+
+
