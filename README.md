@@ -323,7 +323,6 @@ I used Chrome lighthouse dev tool to test the website performance. I’ve got an
 
 ![Screenshot home page in lighthouse for mobile](/assets/images/get-in-touch-lighthouse2.png) 
 
---- 
 
 ### Wave Page 
 
@@ -383,4 +382,13 @@ This is all done to prevent any Data loss in case Gitpod crashes.
 1. The published link will show up above. Alternatively, click this link.
 
 
+--- 
 
+## Credits 
+
+### Content 
+
+* The Text Overlay inspiration was taken from the Love Running project. 
+* The design of the Navigation Bar was taken as inspiration from the Love Running project. 
+* The footer was also taken as inspiration from the Love Running project. But the icons for the different social media was taken from [Font Awesome](https://fontawesome.com/)
+* The fonts were taken from [Pair Fonts](https://pairfonts.com/)
