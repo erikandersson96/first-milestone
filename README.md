@@ -259,7 +259,7 @@ I changed the <h1> tags to <h2> tags instead.
 
 After I corrected the Solution I got a new error: 
 
-**Error:** 
+**Error 2:** 
 My “action” attribute to my <form> element has no value.
 
 **Solution:** 
@@ -269,7 +269,7 @@ Here you can take a look at the two error messages I got:
 
 ![Screenshot of first HTML validation error]('../assets/images/html-validator-error1.png') 
 
-![Screenshot of second HTML validation error]('../assets/images/html-validator-error2.png') 
+![Screenshot of second HTML validation error]('../assets/images/html-validator-error2.jpg') 
 
 
 * CSS-Validator  
