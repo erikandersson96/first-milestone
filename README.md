@@ -250,15 +250,19 @@ I have tested the responsiveness and aesthetics on the following devices and bro
 * HTML-Validator
 When testing the website link at [W3C Validator](https://validator.w3.org/) I got these results:  
 
-**Error:** I've got an error for using <h1> element more than in my logo. And this could confuse a screen reader because it will treat it as a top-level heading. 
+**Error:** 
+I've got an error for using <h1> element more than in my logo. And this could confuse a screen reader because it will treat it as a top-level heading. 
 
-**Solution:** I changed the <h1> tags to <h2> tags instead. 
+**Solution:** 
+I changed the <h1> tags to <h2> tags instead. 
 
 After I corrected the Solution I got a new error: 
 
-**Error:** My “action” attribute to my <form> element has no value.
+**Error:** 
+My “action” attribute to my <form> element has no value.
 
-**Solution:** I tried to remove the “action” attribute in my HTML without interfering with the experience of the website and it all worked. I also got no errors for my HTML after this when validating the HTML code again. 
+**Solution:** 
+I tried to remove the “action” attribute in my HTML without interfering with the experience of the website and it all worked. I also got no errors for my HTML after this when validating the HTML code again. 
 
 Here you can take a look at the two error messages I got: 
 
@@ -270,9 +274,11 @@ Here you can take a look at the two error messages I got:
 * CSS-Validator  
 When testing the website link at [Jigsaw Validator](https://jigsaw.w3.org/css-validator/) I got these results:
 
-**Error:** 287 Parse errors. I had written for the font-family: Open+Sans and the “+” gave me an error for all of them. And I had also set every @media for all attributes of that <div> not only the attributes that I actually changed. And I also got an error for including too much unnecessary code within each @media screen size breakpoint, I didn’t only include the one parameters that I changed, I also included every each of them including the ones that I didn’t change. 
+**Error:** 
+287 Parse errors. I had written for the font-family: Open+Sans and the “+” gave me an error for all of them. And I had also set every @media for all attributes of that <div> not only the attributes that I actually changed. And I also got an error for including too much unnecessary code within each @media screen size breakpoint, I didn’t only include the one parameters that I changed, I also included every each of them including the ones that I didn’t change. 
 
-**Solution:** I changed every font to the correct spelling (from Open+Sans to “Open Sans”) and I also got rid of all unnecessary code in every @media screen breakpoint that I had included from the start. So from now on it only holds the changes made for every 13 breakpoints in my CSS file. 
+**Solution:** 
+I changed every font to the correct spelling (from Open+Sans to “Open Sans”) and I also got rid of all unnecessary code in every @media screen breakpoint that I had included from the start. So from now on it only holds the changes made for every 13 breakpoints in my CSS file. 
 
 Here you can take a look at the CSS parse error I got:  
 
