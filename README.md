@@ -142,7 +142,7 @@ This represents the Text Overlays, notice that it is transparent.
 ![Screenshot of the Navigation bar]('../assets/images/navbar-image.png')
 
 ---
-### Landing Page Image  
+### Landing Page   
 
 * The landing page includes an image of a watch with a black background to make it stand out. The Background image is used for all three pages. I used Text Overlay to create a nice effect to the background containing a text with: “Life is too short to waste on a great watch. - So give it all the love it truly deserves!”. 
 
@@ -158,10 +158,21 @@ This represents the Text Overlays, notice that it is transparent.
 ![Screenshot of Footer]('../assets/images/footer-image.png')
 
 ---
-### About us Page 
+### About us  
 
 * The about us page is to inform the user about the business and what we aim to achieve in the services we provide to our customers. This is also created with Text Overlay to make it stand out from the background image without hiding it.
 
 * I also added a Call to Action Button underneath the About us information to direct the user to the contact form directly. 
 
 ![Screenshot of About us page]('../assets/images/about-us-page.png')
+
+--- 
+### Get in touch 
+
+* The Get in touch page includes two Text Overlays. The first one holds information about pricing and what services we offer. The second one is the contact form used to get the user’s contact information. The user has to fill in: First Name, Last Name, E-mail, Brand of the watch, Budget, and additional information about their watch as Year, Condition, and if it is functional. All text boxes are required to be filled in order to hit the Submit button underneath. 
+
+* The Contact form is refreshed when clicking on the Submit button. It will also show the user that he or she needs to fill in all of the input fields that are * required with a warning text. 
+
+* The input field for Budget only accepts numbers. 
+
+![Screenshot of Get in touch Page]('../assets/images/get-in-touch-page.png')
