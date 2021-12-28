@@ -8,7 +8,7 @@ Take a look [here](https://erikandersson96.github.io/first-milestone/index.html)
 
 
 
-
+---
 
 ## Milestone Project One 
 
@@ -31,7 +31,7 @@ The main goal of this project was to create a website for people to easily get i
 
 
 ## Table of Contents 
-----
+
 * UX 
   * Visitor Goals 
 
@@ -71,8 +71,7 @@ The main goal of this project was to create a website for people to easily get i
 ---
 
 
-## UX 
----
+## UX (User Experience)
 
 ### Visitor Goals 
 
