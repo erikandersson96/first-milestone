@@ -328,7 +328,7 @@ I used Chrome lighthouse dev tool to test the website performance. I’ve got an
 
 Each page has been tested through wave.webaim.org for accessibility.
 
-* You can look at the results [here](https://erikandersson96.github.io/first-milestone/index.html) (opens in new tab). 
+* You can look at the results [here](https://wave.webaim.org/report#/https://erikandersson96.github.io/first-milestone/index.html) (opens in new tab). 
 
 
 --- 
