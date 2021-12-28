@@ -107,16 +107,16 @@ Text Overlay - I used Text overlay for all text and the contact form on the page
 
 **#fff - White (HEX-color)** 
 
-![A white box with a thin grey border around it]('../assets/images/white-box.png')
+![A white box with a thin grey border around it](/assets/images/white-box.png)
 
 **#000000 - Black (HEX-color)** 
 
-![A black box]('../assets/images/black-box.png') 
+![A black box](/assets/images/black-box.png) 
 
 **rgba (6, 6, 8, 0.753) - Medium light grey (RGB-color)**
 This represents the Text Overlays, notice that it is transparent. 
 
-![A transparent box]('../assets/images/transparent-box.png')
+![A transparent box](/assets/images/transparent-box.png)
 
 
 ### Fonts 
@@ -125,11 +125,11 @@ This represents the Text Overlays, notice that it is transparent.
 
 **Oswald, h1, and h2:** 
 
-![Image that displays how font Oswald look]('../assets/images/oswald-image.png') 
+![Image that displays how font Oswald look](/assets/images/oswald-image.png) 
 
 **Open Sans, body:** 
 
-![Image that displays how font Open Sans look]('../assets/images/open-sans-image.png') 
+![Image that displays how font Open Sans look](/assets/images/open-sans-image.png) 
 
 
 
@@ -141,7 +141,7 @@ This represents the Text Overlays, notice that it is transparent.
 * Used for all three pages. Consisting of one Unordered List containing 
   Home | About us | Get in touch. 
 
-![Screenshot of the Navigation bar]('../assets/images/navbar-image.png')
+![Screenshot of the Navigation bar](/assets/images/navbar-image.png)
 
 ---
 ### Landing Page   
@@ -150,14 +150,14 @@ This represents the Text Overlays, notice that it is transparent.
 
 * This creates an eye-catching animation to grab the user's attention. 
 
-![Screenshot of Landing Page]('../assets/images/landing-page.png')
+![Screenshot of Landing Page](/assets/images/landing-page.png)
 
 ---
 ### Footer 
 
 * The footer includes all the social media links to the relevant social platform. The links will open in a new tab to not confuse the user, or open each social platform application on the device if the user interacts on a mobile device or tablet. 
 
-![Screenshot of Footer]('../assets/images/footer-image.png')
+![Screenshot of Footer](/assets/images/footer-image.png)
 
 ---
 ### About us  
@@ -166,7 +166,7 @@ This represents the Text Overlays, notice that it is transparent.
 
 * I also added a Call to Action Button underneath the About us information to direct the user to the contact form directly. 
 
-![Screenshot of About us page]('../assets/images/about-us-page.png')
+![Screenshot of About us page](/assets/images/about-us-page.png)
 
 --- 
 ### Get in touch 
@@ -177,7 +177,7 @@ This represents the Text Overlays, notice that it is transparent.
 
 * The input field for Budget only accepts numbers. 
 
-![Screenshot of Get in touch Page]('../assets/images/get-in-touch-page.png') 
+![Screenshot of Get in touch Page](/assets/images/get-in-touch-page.png) 
 
 
 
@@ -248,7 +248,8 @@ I have tested the responsiveness and aesthetics on the following devices and bro
 ---
 ### Validator Testing 
 
-* HTML-Validator
+* **HTML-Validator**
+
 When testing the website link at [W3C Validator](https://validator.w3.org/) I got these results:  
 
 **Error:** 
@@ -271,12 +272,14 @@ I tried to remove the “action” attribute in my HTML without interfering with
 
 Here you can take a look at the two error messages I got: 
 
-![Screenshot of first HTML validation error]('../assets/images/html-validator-error1.png') 
+![Screenshot of first HTML validation error](/assets/images/html-validator-error1.png) 
 
-![Screenshot of second HTML validation error]('../assets/images/html-validator-error2.jpg') 
+![Screenshot of second HTML validation error](/assets/images/html-validator-error2.jpg) 
 
 
-* CSS-Validator  
+
+* **CSS-Validator**  
+
 When testing the website link at [Jigsaw Validator](https://jigsaw.w3.org/css-validator/) I got these results:
 
 **Error:** 
@@ -289,4 +292,4 @@ I changed every font to the correct spelling (from Open+Sans to “Open Sans”)
 
 Here you can take a look at the CSS parse error I got:  
 
-![Screenshot of CSS jigsaw validation error]('../assets/images/css-validator-error.png')
+![Screenshot of CSS jigsaw validation error](/assets/images/css-validator-error.png)
