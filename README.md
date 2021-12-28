@@ -101,23 +101,36 @@ Text Overlay - I used Text overlay for all text and the contact form on the page
 
 ### Color Scheme 
 
-I chose four different colors for the website. Black, White, and medium-light grey for the Text Overlays to give it a good contrast to the background image. 
+* I chose four different colors for the website. Black, White, and medium-light grey for the Text Overlays to give it a good contrast to the background image. 
 
 **#fff - White (HEX-color)** 
 
-![A white box with a thin grey border around it]('../images/white-box.png')
+![A white box with a thin grey border around it]('../assets/images/white-box.png')
 
 **#000000 - Black (HEX-color)** 
 
-![A black box]('../images/black-box.png') 
+![A black box]('../assets/images/black-box.png') 
 
 **rgba (6, 6, 8, 0.753) - Medium light grey (RGB-color)**
 This represents the Text Overlays, notice that it is transparent. 
 
-![A transparent box]('../images/transparent-box.png')
-
+![A transparent box]('../assets/images/transparent-box.png')
 
 ---
+
+### Fonts 
+
+* I used three different fonts for the website. Oswald for all h1 and h2 and “Open Sans” for all body elements with sans-serif as a backup if “Open Sans” wouldn’t work. The submit button and the call to action button on the About us page are both using Arial. The Oswald and “Open Sans” fonts were taken from Pairfonts. Arial is a default font. 
+
+**Oswald, h1, and h2:** 
+
+![Image that displays how font Oswald look]('../assets/images/oswald-image.png') 
+
+**Open Sans, body:** 
+
+![Image that displays how font Open Sans look]('../assets/images/open-sans-image.png') 
+
+
 
 ## Existing Features 
 ---
