@@ -404,6 +404,21 @@ This is all done to prevent any Data loss in case Gitpod crashes.
 
 ![First background image, before I changed](/assets/images/first-hero-image.jpg) 
 
+
 **The background image I choose to go for beacuse I thought it looked better:** 
 
-![Background image I choose](/assets/images/hero-image.jpg)
+![Background image I choose](/assets/images/hero-image.jpg) 
+
+
+--- 
+
+## Support 
+
+I would like to give an extra Thank you to all the kind people I have around me that gave me support in all different ways. 
+
+* **Code Institute** for their **Tutor** support. 
+* My mentor [Benjamin Kavanagh](https://github.com/BAK2K3) for being a Superior mentor. 
+* **Adam Hamwandi**, which is another student at Code Institute. 
+* My lovely **Girlfriend** for always supporting me. 
+
+
