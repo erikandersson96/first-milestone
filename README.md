@@ -9,11 +9,10 @@ Take a look [here](https://erikandersson96.github.io/first-milestone/index.html)
 
 
 ---
-
 ## Milestone Project One 
 
 
-
+---
 ### Intention 
 
 This website is a fictional website for the purpose of my First Milestone Project for Code Institute’s Full Stack Software Developer Course. I created this website with the knowledge I gained from the HTML and CSS modules. 
@@ -27,9 +26,8 @@ The main goal of this project was to create a website for people to easily get i
  * Use Text Overlay for my text to create a “stand out” feeling and catch the attention of the user. 
  * Use a Navigation Bar that is easy to understand and easy to navigate between the three pages. 
 
+
 ---
-
-
 ## Table of Contents 
 
 * UX 
@@ -68,9 +66,8 @@ The main goal of this project was to create a website for people to easily get i
 
 * Support 
 
+
 ---
-
-
 ## UX (User Experience)
 
 ### Visitor Goals 
@@ -81,11 +78,9 @@ The main goal of this project was to create a website for people to easily get i
 
 * To be accessible on all devices. 
 
+
 ---
-
-
 ## Website Design 
----
 
 Every Page on the website contains a Navigation menu at the top left of the Webpage. It is used to easily navigate between Menu I About us I Get in touch. It is featured on all three pages. 
 
@@ -96,7 +91,6 @@ Background Image (Hero image) - I downloaded this image from pixabay.com which i
 Website Colors - I went for only Black and White to keep it clean and simple. 
 
 Text Overlay - I used Text overlay for all text and the contact form on the page to let the Background image stand out and make it look better. 
-
 
 
 ### Color Scheme 
@@ -130,9 +124,9 @@ This represents the Text Overlays, notice that it is transparent.
 ![Image that displays how font Open Sans look](/assets/images/open-sans-image.png) 
 
 
-
-## Existing Features 
 ---
+## Existing Features 
+
 
 ### Navigation Bar 
 
@@ -141,7 +135,7 @@ This represents the Text Overlays, notice that it is transparent.
 
 ![Screenshot of the Navigation bar](/assets/images/navbar-image.png)
 
----
+
 ### Landing Page   
 
 * The landing page includes an image of a watch with a black background to make it stand out. The Background image is used for all three pages. I used Text Overlay to create a nice effect to the background containing a text with: “Life is too short to waste on a great watch. - So give it all the love it truly deserves!”. 
@@ -150,14 +144,14 @@ This represents the Text Overlays, notice that it is transparent.
 
 ![Screenshot of Landing Page](/assets/images/landing-page.png)
 
----
+
 ### Footer 
 
 * The footer includes all the social media links to the relevant social platform. The links will open in a new tab to not confuse the user, or open each social platform application on the device if the user interacts on a mobile device or tablet. 
 
 ![Screenshot of Footer](/assets/images/footer-image.png)
 
----
+
 ### About us  
 
 * The about us page is to inform the user about the business and what we aim to achieve in the services we provide to our customers. This is also created with Text Overlay to make it stand out from the background image without hiding it.
@@ -166,7 +160,7 @@ This represents the Text Overlays, notice that it is transparent.
 
 ![Screenshot of About us page](/assets/images/about-us-page.png)
 
---- 
+
 ### Get in touch 
 
 * The Get in touch page includes two Text Overlays. The first one holds information about pricing and what services we offer. The second one is the contact form used to get the user’s contact information. The user has to fill in: First Name, Last Name, E-mail, Brand of the watch, Budget, and additional information about their watch as Year, Condition, and if it is functional. All text boxes are required to be filled in order to hit the Submit button underneath. 
@@ -178,7 +172,7 @@ This represents the Text Overlays, notice that it is transparent.
 ![Screenshot of Get in touch Page](/assets/images/get-in-touch-page.png) 
 
 
-
+---
 ## Future Features 
  
 
@@ -275,7 +269,6 @@ Here you can take a look at the two error messages I got:
 ![Screenshot of second HTML validation error](/assets/images/html-validator-error2.jpg) 
 
 
-
 * **CSS-Validator**  
 
 When testing the website link at [Jigsaw Validator](https://jigsaw.w3.org/css-validator/) I got these results:
@@ -292,8 +285,8 @@ Here you can take a look at the CSS parse error I got:
 
 ![Screenshot of CSS jigsaw validation error](/assets/images/css-validator-error.png) 
 
---- 
 
+---
 ### Lighthouse - Dev Tool 
 I used Chrome lighthouse dev tool to test the website performance. I’ve got an average result of 98,6% for desktop and 90% for mobile devices. 
 
@@ -309,7 +302,6 @@ I used Chrome lighthouse dev tool to test the website performance. I’ve got an
 
 ![Screenshot get in touch page in lighthouse](/assets/images/get-in-touch-lighthouse.png) 
 
----
 
 **Home Page (mobile)** 
 
@@ -324,6 +316,7 @@ I used Chrome lighthouse dev tool to test the website performance. I’ve got an
 ![Screenshot home page in lighthouse for mobile](/assets/images/get-in-touch-lighthouse2.png) 
 
 
+---
 ### Wave Page 
 
 Each page has been tested through wave.webaim.org for accessibility.
@@ -332,7 +325,6 @@ Each page has been tested through wave.webaim.org for accessibility.
 
 
 --- 
-
 ## Fixed Bugs 
 
 I validated my CSS and found 287 parse errors. This was because I had written Open+Sans instead of “Open Sans”. As a result of the 287 parse errors, I realized that I was inefficient with my CSS and refactored the Media Queries to only include code that had been changed. 
@@ -341,7 +333,6 @@ When I was running Wave Page I got 6 label errors for my contact form. This is b
 
 
 --- 
-
 ## Unfixed Bugs 
 
 When a user visits the website on an Apple mobile or tablet device with an older iOS update than iOS 15. They might not view the “About us” page call to action button that directs users to the contact form at the “Get in touch” page the same as on a desktop and other mobile devices. The call to action button should be within the Text Overlay that contains the About us information.
@@ -350,7 +341,6 @@ When I searched for a solution to this on the Internet I couldn’t figure out w
 
 
 --- 
-
 ## Deployment 
 
 ### Creating My Website 
@@ -369,7 +359,6 @@ This is all done to prevent any Data loss in case Gitpod crashes.
 
 
 --- 
-
 ## GitHub Pages 
 
 * The site was deployed to GitHub pages. The steps to deploy are as follows: 
@@ -383,7 +372,6 @@ This is all done to prevent any Data loss in case Gitpod crashes.
 
 
 --- 
-
 ## Credits 
 
 ### Content 
@@ -392,7 +380,6 @@ This is all done to prevent any Data loss in case Gitpod crashes.
 * The design of the Navigation Bar was taken as inspiration from the Love Running project. 
 * The footer was also taken as inspiration from the Love Running project. But the icons for the different social media was taken from [Font Awesome](https://fontawesome.com/).
 * The fonts were taken from [Pair Fonts](https://pairfonts.com/).
-
 
 
 ### Media 
@@ -415,7 +402,6 @@ This is all done to prevent any Data loss in case Gitpod crashes.
 
 
 --- 
-
 ## Support 
 
 I would like to give an extra Thank you to all the kind people I have around me that gave me support in all different ways. 
