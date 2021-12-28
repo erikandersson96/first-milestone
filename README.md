@@ -175,4 +175,19 @@ This represents the Text Overlays, notice that it is transparent.
 
 * The input field for Budget only accepts numbers. 
 
-![Screenshot of Get in touch Page]('../assets/images/get-in-touch-page.png')
+![Screenshot of Get in touch Page]('../assets/images/get-in-touch-page.png') 
+
+
+
+## Future Features 
+--- 
+
+### Learning Points 
+
+* I'd like to include feedback to the user so they are aware that the information was submitted from the Contact Form. I didn't have the knowledge to include a “Thank you for Submitting” pop-up or redirect to a new page. But I will include this as soon as I have the knowledge required to do so in the next projects. 
+
+* I made some mistakes when positioning each element: the text on the first page, the About us page, the Price information, and the Contact form on the third page. I used “absolute” instead of “relative” position which forced me to create a total of 13 Media Screen size breakpoints. This is a mistake that I will take with me into the next project and improve upon to increase the amount of breakpoints. I will also start with creating the website for my next project on a mobile device first because it's much easier to expand the screen size than increase the screen size as I did with this project, which resulted in a lot of time waste. 
+
+* I also learned when git commit a message in Gitpod I should have only included what was relevant to that commit. I may have committed a message which included more changes than I added in that exact commit message, not only once but a couple of times. This is something that I will improve in my next project to be more consistent and correct with my commit messages. 
+
+* The way I structured my Media Screen size breakpoints will improve for future projects. When I ran the W3C CSS Validator I got a ton of errors because I had included attributes in every @media query even if they were not changed between screen sizes which resulted in 287 parse errors, but they are all fixed now. 
