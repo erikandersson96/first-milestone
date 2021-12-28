@@ -103,8 +103,18 @@ Text Overlay - I used Text overlay for all text and the contact form on the page
 
 I chose four different colors for the website. Black, White, and medium-light grey for the Text Overlays to give it a good contrast to the background image. 
 
-*#fff - White (HEX-color)* 
-![A white box with a thin grey border around it, to visualise the color]()
+**#fff - White (HEX-color)** 
+
+![A white box with a thin grey border around it]('../images/white-box.png')
+
+**#000000 - Black (HEX-color)** 
+
+![A black box]('../images/black-box.png') 
+
+**rgba (6, 6, 8, 0.753) - Medium light grey (RGB-color)**
+This represents the Text Overlays, notice that it is transparent. 
+
+![A transparent box]('../images/transparent-box.png')
 
 
 ---
