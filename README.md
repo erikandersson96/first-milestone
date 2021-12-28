@@ -11,7 +11,6 @@ Take a look [here](https://erikandersson96.github.io/first-milestone/index.html)
 ---
 ## Milestone Project One 
 
-
 ---
 ### Intention 
 
