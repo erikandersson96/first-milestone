@@ -322,3 +322,11 @@ I used Chrome lighthouse dev tool to test the website performance. I’ve got an
 **Get in touch (mobile)** 
 
 ![Screenshot home page in lighthouse for mobile](/assets/images/get-in-touch-lighthouse2.png) 
+
+--- 
+
+### Wave Page 
+
+Each page has been tested through wave.webaim.org for accessibility.
+
+* You can look at the results [here](https://erikandersson96.github.io/first-milestone/index.html) (opens in new tab).
