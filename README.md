@@ -100,6 +100,7 @@ Website Colors - I went for only Black and White to keep it clean and simple.
 Text Overlay - I used Text overlay for all text and the contact form on the page to let the Background image stand out and make it look better. 
 
 
+
 ### Color Scheme 
 
 * I chose four different colors for the website. Black, White, and medium-light grey for the Text Overlays to give it a good contrast to the background image. 
