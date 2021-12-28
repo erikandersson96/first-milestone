@@ -257,7 +257,7 @@ After I corrected the Solution I got a new error:
 
 My “action” attribute to my form element has no value.
 
-**Solution:** 
+**Solution 2:** 
 
 I tried to remove the “action” attribute in my HTML without interfering with the experience of the website and it all worked. I also got no errors for my HTML after this when validating the HTML code again. 
 
