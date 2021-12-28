@@ -371,4 +371,16 @@ This is all done to prevent any Data loss in case Gitpod crashes.
 
 --- 
 
+## GitHub Pages 
+
+* The site was deployed to GitHub pages. The steps to deploy are as follows: 
+
+1. Log in to Github and locate the Github Repository.
+1. In the Github repository, navigate to the settings tab.
+1. In the menu to the left, you will find Pages almost at the bottom of the list.
+1. Under “Source”, click the dropdown menu called “None” and select “Main”. 
+1. Click save and the page will automatically refresh with the website link displayed. 
+1. The published link will show up above. Alternatively, click this link.
+
+
 
