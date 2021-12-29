@@ -31,6 +31,7 @@ The main goal of this project was to create a website for people to easily get i
 
 * UX 
   * Visitor Goals 
+  * Userstories 
 
 * Website Design 
   * Color Scheme 
@@ -76,6 +77,14 @@ The main goal of this project was to create a website for people to easily get i
 * To collect visitors' contact information to give them a quote that includes a better understanding of what Andersson’s can offer for them since every wristwatch is unique. 
 
 * To be accessible on all devices. 
+
+
+### Userstories 
+
+* A users perspective: I want to easily understand the purpose of the website. 
+* A users perspective: I want the website to be easily navigated between all pages.  
+* A users perspective: I want the website to offer a clean look. 
+* A users perspective: I wish that the website offers a easy to understand contact form. 
 
 
 ---
