@@ -312,8 +312,10 @@ I tried to remove the “action” attribute in my HTML without interfering with
 
 Here you can take a look at the two error messages I got: 
 
+**Error:**
 ![Screenshot of first HTML validation error](/assets/images/html-validator-error1.png) 
 
+**Error 2:**
 ![Screenshot of second HTML validation error](/assets/images/html-validator-error2.jpg) 
 
 
@@ -381,11 +383,11 @@ When I was running Wave Page I got 6 label errors for my contact form. This is b
 
 * Here you can take a look at before and after screenshot of my HTML contact form: 
 
-**Before** 
+**Before:** 
 
 ![Screenshot wrong html contact form](/assets/images/wrong-contact.png)
 
-**After** 
+**After:** 
 
 ![Screenshot correct html contact form](/assets/images/correct-contact.png)
 
