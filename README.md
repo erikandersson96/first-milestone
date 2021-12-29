@@ -456,25 +456,25 @@ This is all done to prevent any `data` loss in case Gitpod crashes.
 
 * The `Text Overlay` inspiration was taken from the `Love Running project`. 
 * The design of the `Navigation Bar` was taken as inspiration from the `Love Running project`. 
-* The `footer` was also taken as inspiration from the `Love Running project`. But the icons for the different social media was taken from [Font Awesome](https://fontawesome.com/).
-* The fonts were taken from [Pair Fonts](https://pairfonts.com/).
+* The `footer` was also taken as inspiration from the `Love Running project`. But the icons for the different social media was taken from [Font Awesome](https://fontawesome.com/) (link).
+* The fonts were taken from [Pair Fonts](https://pairfonts.com/) (link).
 
 
 ### Media 
 
-* The Background Image (Hero image) was taken from [Pixa bay](https://pixabay.com/). 
-* I changed the background image one time since the original image made the contrast look bad. Because I chose to go with only `Black and White text`. The first image was also taken from [Pixa bay](https://pixabay.com/). 
+* The Background Image (Hero image) was taken from [Pixa bay](https://pixabay.com/) (link). 
+* I changed the background image one time since the original image made the contrast look bad. Because I chose to go with only `Black and White text`. The first image was also taken from [Pixa bay](https://pixabay.com/) (link). 
 
 **First background image:** 
 
-* Image taken from [Pixa bay](https://pixabay.com/).
+* Image taken from [Pixa bay](https://pixabay.com/) (link).
 
 ![First background image, before I changed](/assets/images/first-hero-image.jpg) 
 
 
 **The background image I choose to go for beacuse I thought it looked better:** 
 
-* Image taken from [Pixa bay](https://pixabay.com/).
+* Image taken from [Pixa bay](https://pixabay.com/) (link).
 
 ![Background image I choose](/assets/images/hero-image.jpg) 
 
@@ -485,7 +485,7 @@ This is all done to prevent any `data` loss in case Gitpod crashes.
 I would like to give an extra `Thank you` to all the kind people I have around me that gave me support in all different ways. 
 
 * **Code Institute** for their **Tutor** support. 
-* My mentor [Benjamin Kavanagh](https://github.com/BAK2K3) for being a Superior mentor. 
+* My mentor [Benjamin Kavanagh](https://github.com/BAK2K3) (link) for being a Superior mentor. 
 * **Adam Hamwandi**, which is another student at Code Institute. 
 * My lovely **Girlfriend** for always supporting me. 
 
