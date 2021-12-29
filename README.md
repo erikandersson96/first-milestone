@@ -107,6 +107,15 @@ The main goal of this project was to create a website for people to easily get i
 
 ![Screenshot wireframe get in touch page](/assets/images/wireframe-4.png)
 
+**Comparison, final product:** 
+
+![Screenshot home page](/assets/images/wireframes-home.png) 
+
+![Screenshot about us page](/assets/images/wireframes-about.png) 
+
+![Screenshot get in touch page](/assets/images/wireframes-contact.png) 
+
+
 ---
 ## Website Design 
 
