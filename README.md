@@ -154,7 +154,7 @@ Website Colors - I went for only `Black and White` to keep it clean and simple.
 ![A black box](/assets/images/black-box.png) 
 
 **rgba (6, 6, 8, 0.753) - Medium light grey (RGB-color)**
-This represents the Text Overlays, notice that it is transparent. 
+This represents the Text Overlays. 
 
 ![A transparent box](/assets/images/transparent-box.png)
 
@@ -188,14 +188,14 @@ This represents the Text Overlays, notice that it is transparent.
 
 * The landing page includes an image of a watch with a black background to make it stand out. The background image is used for all three pages. I used `Text Overlay` to create a nice effect to the background containing a text with: `“Life is too short to waste on a great watch. - So give it all the love it truly deserves!”.` 
 
-* This creates an eye-catching animation to grab the user's attention. 
+* This creates an eye-catching contrast to grab the user's attention. 
 
 ![Screenshot of Landing Page](/assets/images/landing-page.png)
 
 
 ### Footer 
 
-* The footer includes all the social media links to the relevant social platform. The links will open in a new tab to not confuse the user, or open each social platform application on the device if the user interacts on a mobile device or tablet. 
+* The footer includes all the social media links to the relevant social platform. The links will open in a new tab to not confuse the user. Or open each social platform application on the device if the user interacts on a mobile device or tablet. 
 
 ![Screenshot of Footer](/assets/images/footer-image.png)
 
@@ -228,7 +228,7 @@ This represents the Text Overlays, notice that it is transparent.
 
 * I'd like to include feedback to the user so they are aware that the information was submitted from the `Contact Form.` I didn't have the knowledge to include a `“Thank you for Submitting”` pop-up or redirect to a new page. But I will include this as soon as I have the knowledge required to do so in the next projects. 
 
-* I made some mistakes when positioning each element: the text on the first page, the About us page, the Price information, and the `Contact form` on the third page. I used `"absolute"` instead of `“relative”` position which forced me to create a total of `13 Media Screen size breakpoints.` This is a mistake that I will take with me into the next project and improve upon to increase the amount of breakpoints. I will also start with creating the website for my next project on a mobile device first because it's much easier to expand the screen size than increase the screen size as I did with this project, which resulted in a lot of time waste. 
+* I made some mistakes when positioning each element: the text on the first page, the About us page, the Price information, and the `Contact form` on the third page. I used `"absolute"` instead of `“relative”` position which forced me to create a total of `13 Media Screen size breakpoints.` This is a mistake that I will take with me into the next project and improve upon to increase the amount of breakpoints. I will also start with creating the website for my next project on a mobile device first because it's much easier to expand the screen size than increase the screen size as I did with this project, which resulted in a lot of time wasted. 
 
 * I also learned when git commit a message in `Gitpod` I should have only included what was relevant to that commit. I may have committed a message which included more changes than I added in that exact commit message, not only once but a couple of times. This is something that I will improve in my next project to be more consistent and correct with my commit messages. 
 
@@ -238,15 +238,15 @@ This represents the Text Overlays, notice that it is transparent.
 ---
 ## Testing 
 
-* All pages have been tested across all screen sizes for a responsive experience. The layout of the different elements on each page may have different positions to make it look good on each screen size. 
+* All pages have been tested across all screen sizes for a responsive experience. The layout of the different elements on each page may have different positions to make it look good on each screen size. I tested this in the `Chrome dev tool, so I have not tested it on actual devices`.
 
-* I used validators to ensure that my code was correct and up to standard. I did this with the use of `W3C validator` for HTML and `Jigsaw Validator for CSS.` 
+* I used validators to ensure that my code was correct and up to standard. I did this with the use of `W3C validator` for HTML and `Jigsaw Validator` for CSS. 
 
 * I made sure that the website looks good down to a screen size of 300px wide. 
 
 * All links to external websites open in a new browser. 
 
-* All nav links show with an underline which page you are on, and it also shows an underline on the nav link that you hover over with a mouse. 
+* All Navigation bar links show with an underline which page you are on, and it also shows an underline on the nav link that you hover over with a mouse. 
 
 * The Submit button in the Contact form shows a hover effect when hovered with a mouse. 
 
@@ -292,9 +292,11 @@ I have tested the responsiveness and aesthetics on the following devices and bro
 
 When testing the website link at [W3C Validator](https://validator.w3.org/) I got these results:  
 
-**Error:** 
+**Error 1:** 
 
 I've got an error for using `h1` element more than in my logo. And this could confuse a screen reader because it will treat it as a `top-level heading.` 
+
+![Screenshot of first HTML validation error](/assets/images/html-validator-error1.png)
 
 **Solution:** 
 
@@ -306,19 +308,12 @@ After I corrected the Solution I got a new error:
 
 My `action` attribute to my form element has no value.
 
+![Screenshot of second HTML validation error](/assets/images/html-validator-error2.jpg)
+
 **Solution 2:** 
 
 I tried to remove the `action` attribute in my HTML without interfering with the experience of the website and it all worked. I also got no errors for my HTML after this when validating the HTML code again. 
-
-Here you can take a look at the two error messages I got: 
-
-**Error:**
-
-![Screenshot of first HTML validation error](/assets/images/html-validator-error1.png) 
-
-**Error 2:**
-
-![Screenshot of second HTML validation error](/assets/images/html-validator-error2.jpg) 
+  
 
 **After I applied the HTML solutions:**
 
@@ -337,6 +332,8 @@ When testing the website link at [Jigsaw Validator](https://jigsaw.w3.org/css-va
 
 `287 Parse errors.` I had written for the font-family: `Open+Sans` and the `“+”` gave me an error for all of them. And I had also set every `Media` for all attributes of that `div` not only the attributes that I actually changed. And I also got an error for including too much unnecessary code within each `Media screen size breakpoint`, I didn’t only include the one parameters that I changed, I also included every each of them including the ones that I didn’t change. 
 
+![Screenshot of CSS jigsaw validation error](/assets/images/css-validator-error.png)
+
 **Here is an example of how i wrote "Open+Sans":**
 
 ![Screenshot of wrong spelling of font](/assets/images/wrong-opensans.png)
@@ -349,9 +346,6 @@ When testing the website link at [Jigsaw Validator](https://jigsaw.w3.org/css-va
 
 I changed every font to the correct spelling (from `Open+Sans` to `“Open Sans”`) and I also got rid of all unnecessary code in every @media screen breakpoint that I had included from the start. So from now on it only holds the changes made for every `13 breakpoints` in my CSS file. 
 
-Here you can take a look at the CSS `parse` error I got:  
-
-![Screenshot of CSS jigsaw validation error](/assets/images/css-validator-error.png) 
 
 **After I applied the CSS solution:**
 Here is a link to my Approved CSS jigsaw [Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ferikandersson96.github.io%2Ffirst-milestone%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv). 
