@@ -115,6 +115,17 @@ The main goal of this project was to create a website for people to easily get i
 
 ![Screenshot get in touch page](/assets/images/wireframes-contact.png) 
 
+**Changes:** 
+* As you can see, I choose to only use three pages instead of four pages. Firstly that is because I didn’t find myself satisfied with the looks of including a video on the “How it works” page and secondly I didn’t find a video that suited me well enough. Therefore I felt that a fourth page (third page in the wireframes) felt unnecessary. 
+
+* I also choose to with another background image than the one you can see from the wireframes. I will discuss this later down in the Media section. 
+
+* The logo is also different. I discuss this as well in the Website Design section. 
+
+* The footer also looks slightly different, I felt that most users use Social media platforms like Instagram, LinkedIn, Youtube, Facebook. And I also felt that it looked cleaner with only four Social media platforms.
+
+* Lastly, the way the website displays text and the contact form differs a little bit but when I did the wireframes I didn’t think too much about what would be practical and user-friendly to meet the user stories.   
+
 
 ---
 ## Website Design 
