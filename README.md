@@ -318,6 +318,13 @@ Here you can take a look at the two error messages I got:
 **Error 2:**
 ![Screenshot of second HTML validation error](/assets/images/html-validator-error2.jpg) 
 
+**After I applied the HTML solutions:**
+Here you can take a look at my `Approved` HTML for my [Home Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Ferikandersson96.github.io%2Ffirst-milestone%2Findex.html). 
+
+Here you can take a look at my `Approved` HTML for my [About us Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Ferikandersson96.github.io%2Ffirst-milestone%2Fabout-us.html). 
+
+Here you can take a look at my `Approved` HTML for my [Get in touch Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Ferikandersson96.github.io%2Ffirst-milestone%2Fget-in-touch.html). 
+
 
 * **CSS-Validator**  
 
@@ -327,6 +334,14 @@ When testing the website link at [Jigsaw Validator](https://jigsaw.w3.org/css-va
 
 `287 Parse errors.` I had written for the font-family: `Open+Sans` and the `“+”` gave me an error for all of them. And I had also set every `Media` for all attributes of that `div` not only the attributes that I actually changed. And I also got an error for including too much unnecessary code within each `Media screen size breakpoint`, I didn’t only include the one parameters that I changed, I also included every each of them including the ones that I didn’t change. 
 
+**Here is an example of how i wrote "Open+Sans":**
+
+![Screenshot of wrong spelling of font](/assets/images/wrong-opensans.png)
+
+**Here is an example of how I structured my Media queries at first, which caused this parse error:** 
+
+![Screenshot of wrong media queries structure](/assets/images/media-queries.png)
+
 **Solution:** 
 
 I changed every font to the correct spelling (from `Open+Sans` to `“Open Sans”`) and I also got rid of all unnecessary code in every @media screen breakpoint that I had included from the start. So from now on it only holds the changes made for every `13 breakpoints` in my CSS file. 
@@ -334,6 +349,9 @@ I changed every font to the correct spelling (from `Open+Sans` to `“Open Sans�
 Here you can take a look at the CSS `parse` error I got:  
 
 ![Screenshot of CSS jigsaw validation error](/assets/images/css-validator-error.png) 
+
+**After I applied the CSS solution:**
+Here is a link to my Approved CSS jigsaw [Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ferikandersson96.github.io%2Ffirst-milestone%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv). 
 
 
 ---
@@ -371,7 +389,7 @@ I used `Chrome lighthouse dev tool` to test the website `performance`. I’ve go
 
 Each page has been tested through wave.webaim.org for accessibility. 
 
-* You can look at the results [here](https://wave.webaim.org/report#/https://erikandersson96.github.io/first-milestone/index.html) (opens in new tab). 
+* You can look at the results [here](https://wave.webaim.org/report#/https://erikandersson96.github.io/first-milestone/index.html). 
 
 
 --- 
