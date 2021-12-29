@@ -33,6 +33,10 @@ The main goal of this project was to create a website for people to easily get i
   * Visitor Goals 
   * Userstories 
 
+* Wireframes 
+  * First Idea 
+  * Comparison 
+
 * Website Design 
   * Color Scheme 
   * Fonts 
@@ -85,6 +89,12 @@ The main goal of this project was to create a website for people to easily get i
 * A users perspective: I want the website to be easily navigated between all pages.  
 * A users perspective: I want the website to offer a clean look. 
 * A users perspective: I wish that the website offers a easy to understand contact form. 
+
+
+---
+## Wireframes 
+
+* First idea and wireframe for desktop: 
 
 
 ---
