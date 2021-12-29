@@ -326,7 +326,7 @@ Here you can take a look at my `Approved` HTML for my [Get in touch Page](https:
 
 * **CSS-Validator**  
 
-When testing the website link at [Jigsaw Validator](https://jigsaw.w3.org/css-validator/) I got these results:
+When testing the website link at [Jigsaw Validator](https://jigsaw.w3.org/css-validator/validator.html.en) I got these results:
 
 **Error:** 
 
@@ -348,7 +348,7 @@ I changed every font to the correct spelling (from `Open+Sans` to `â€œOpen Sansâ
 
 
 **After I applied the CSS solution:**
-Here is a link to my Approved CSS jigsaw [Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ferikandersson96.github.io%2Ffirst-milestone%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv). 
+Here is a link to my Approved CSS jigsaw [Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ferikandersson96.github.io%2Ffirst-milestone%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en). 
 
 
 ---
