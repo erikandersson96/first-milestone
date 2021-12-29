@@ -313,12 +313,15 @@ I tried to remove the `action` attribute in my HTML without interfering with the
 Here you can take a look at the two error messages I got: 
 
 **Error:**
+
 ![Screenshot of first HTML validation error](/assets/images/html-validator-error1.png) 
 
 **Error 2:**
+
 ![Screenshot of second HTML validation error](/assets/images/html-validator-error2.jpg) 
 
 **After I applied the HTML solutions:**
+
 Here you can take a look at my `Approved` HTML for my [Home Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Ferikandersson96.github.io%2Ffirst-milestone%2Findex.html). 
 
 Here you can take a look at my `Approved` HTML for my [About us Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Ferikandersson96.github.io%2Ffirst-milestone%2Fabout-us.html). 
