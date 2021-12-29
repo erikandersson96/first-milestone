@@ -94,8 +94,18 @@ The main goal of this project was to create a website for people to easily get i
 ---
 ## Wireframes 
 
-* First idea and wireframe for desktop: 
+* First 4 images is from the first idea and wireframe for only desktop view. (I never did a wireframe for mobile use but I will do for future projects): 
+* Second row containing 4 images is from the final product of the website. To give you a comparison: 
 
+**First 4 images:** 
+
+![Screenshot wireframe home page](/assets/images/wireframe-1.png)  
+
+![Screenshot wireframe about us page](/assets/images/wireframe-2.png)
+
+![Screenshot wireframe how it works page](/assets/images/wireframe-3.png)  
+
+![Screenshot wireframe get in touch page](/assets/images/wireframe-4.png)
 
 ---
 ## Website Design 
