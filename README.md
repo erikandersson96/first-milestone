@@ -367,7 +367,7 @@ I used Chrome lighthouse dev tool to test the website performance. I’ve got an
 ---
 ### Wave Page 
 
-Each page has been tested through wave.webaim.org for accessibility.
+Each page has been tested through wave.webaim.org for accessibility. 
 
 * You can look at the results [here](https://wave.webaim.org/report#/https://erikandersson96.github.io/first-milestone/index.html) (opens in new tab). 
 
@@ -377,7 +377,17 @@ Each page has been tested through wave.webaim.org for accessibility.
 
 I validated my CSS and found 287 parse errors. This was because I had written Open+Sans instead of “Open Sans”. As a result of the 287 parse errors, I realized that I was inefficient with my CSS and refactored the Media Queries to only include code that had been changed. 
 
-When I was running Wave Page I got 6 label errors for my contact form. This is because I had written my HTML for the contact form in the wrong way without correct labels. I corrected this by rewriting my HTML code for the contact form, with a correct label for each input field.  
+When I was running Wave Page I got 6 label errors for my contact form. This is because I had written my HTML for the contact form in the wrong way without correct labels. I corrected this by rewriting my HTML code for the contact form, with a correct label for each input field. 
+
+* Here you can take a look at before and after screenshot of my HTML contact form: 
+
+**Before** 
+
+![Screenshot wrong html contact form](/assets/images/wrong-contact.png)
+
+**After** 
+
+![Screenshot correct html contact form](/assets/images/correct-contact.png)
 
 
 --- 
