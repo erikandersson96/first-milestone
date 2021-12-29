@@ -325,7 +325,7 @@ When testing the website link at [Jigsaw Validator](https://jigsaw.w3.org/css-va
 
 **Error:** 
 
-287 Parse errors. I had written for the font-family: Open+Sans and the “+” gave me an error for all of them. And I had also set every @media for all attributes of that <div> not only the attributes that I actually changed. And I also got an error for including too much unnecessary code within each @media screen size breakpoint, I didn’t only include the one parameters that I changed, I also included every each of them including the ones that I didn’t change. 
+287 Parse errors. I had written for the font-family: Open+Sans and the “+” gave me an error for all of them. And I had also set every @media for all attributes of that `div` not only the attributes that I actually changed. And I also got an error for including too much unnecessary code within each @media screen size breakpoint, I didn’t only include the one parameters that I changed, I also included every each of them including the ones that I didn’t change. 
 
 **Solution:** 
 
