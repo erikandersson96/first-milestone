@@ -111,7 +111,7 @@ The main goal of this project was to create a website for people to easily get i
 
 ![Screenshot home page](/assets/images/wireframes-home.png) 
 
-![Screenshot about us page](/assets/images/wireframes-about.png) 
+![Screenshot about us page](/assets/images/wireframe-about.png) 
 
 ![Screenshot get in touch page](/assets/images/wireframes-contact.png) 
 
