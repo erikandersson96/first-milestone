@@ -29,7 +29,7 @@ The main goal of this project was to create a website for people to easily get i
 ---
 ## Table of Contents 
 
-* [UX](#ux)
+* [UX](#uxuserexperience)
   * [Visitor Goals](#visitorgoals)
   * [User Stories](#userstories)
 
