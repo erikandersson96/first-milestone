@@ -436,6 +436,26 @@ I also discovered that when I clicked the link for my Wave Page on my Apple iPho
 
 When I searched for a `solution` to these `"defects/errors"` on the Internet I couldn’t figure out what caused this so I decided that I will leave it as `unfixed bugs`, and I will try my best to solve this issue later in my career when I have more knowledge in Software development. 
 
+**Here is a screenshot of the contrast error I got when I looked at Wave Page on my iPhone 11:** 
+
+About us:
+
+![Screenshot on iPhone 11 at Wave Page, About us](/assets/images/mobile-wave.png) 
+
+Get in touch:
+
+![Screenshot on iPhone 11 at Wave Page, Get in touch](/assets/images/mobile-wave2.png)
+
+**Here is a screenshot with the same screen size dimensions (1,792 x 828 pixels) as my iPhone 11 but when I looked at Wave Page on my desktop (MacBook Pro):** 
+
+About us: 
+
+![Screenshot on desktop at Wave Page, About us](/assets/images/desktop-wave.png)
+
+Get in touch: 
+
+![Screenshot on desktop at Wave Page, Get in touch](/assets/images/desktop-wave2.png)
+
 
 --- 
 ## Deployment 
