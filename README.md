@@ -101,11 +101,19 @@ The main goal of this project was to create a website for people to easily get i
 
 **First website idea:** 
  
+Wireframe Home Page.
+
 ![Screenshot wireframe home page](/assets/images/wireframe-1.png)  
+
+Wireframe About us Page.
 
 ![Screenshot wireframe about us page](/assets/images/wireframe-2.png)
 
+Wireframe How it works Page.
+
 ![Screenshot wireframe how it works page](/assets/images/wireframe-3.png)  
+
+Wireframe Get in touch Page.
 
 ![Screenshot wireframe get in touch page](/assets/images/wireframe-4.png)
 
@@ -113,9 +121,15 @@ The main goal of this project was to create a website for people to easily get i
 
 **Final product:** 
 
+Home Page.
+
 ![Screenshot home page](/assets/images/wireframes-home.png) 
 
+About us Page. 
+
 ![Screenshot about us page](/assets/images/wireframe-about.png) 
+
+Get in touch Page. 
 
 ![Screenshot get in touch page](/assets/images/wireframes-contact.png) 
 
