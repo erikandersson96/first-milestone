@@ -2,7 +2,7 @@
 
 A website for people to get in touch with Andersson's, a business that focuses on service wristwatches. Give their customers older wristwatches a fresher look and with a movement in better condition. 
 
-Take a look at the website [here](https://erikandersson96.github.io/first-milestone/index.html).
+Take a look at the website [here](https://erikandersson96.github.io/first-milestone/index.html) (link).
 
 ![Am I Responsive, to show the website on different screen sizes](/assets/images/responsive-image.png)
 
