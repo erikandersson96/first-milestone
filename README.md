@@ -109,7 +109,7 @@ The main goal of this project was to create a website for people to easily get i
 
 #### Comparison 
 
-**final product:** 
+**Final product:** 
 
 ![Screenshot home page](/assets/images/wireframes-home.png) 
 
