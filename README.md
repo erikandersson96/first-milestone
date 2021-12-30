@@ -136,7 +136,7 @@ Get in touch Page.
 **Changes:** 
 * As you can see, I choose to only use three pages instead of four pages. Firstly that is because I didn’t find myself satisfied with the looks of including a video on the `“How it works”` page and secondly I didn’t find a video that suited me well enough. Therefore I felt that a fourth page (third page in the wireframes) felt unnecessary. 
 
-* I also choose to with `another` background image than the one you can see from the wireframes. I will discuss this later down in the `Media section`. 
+* I also choose to go with `another` background image than the one you can see from the wireframes. I will discuss this later down in the `Media section`. 
 
 * The logo is also different. I discuss this as well in the `Website Design section`. 
 
