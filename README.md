@@ -31,7 +31,7 @@ The main goal of this project was to create a website for people to easily get i
 
 * UX 
   * Visitor Goals 
-  * Userstories 
+  * User Stories 
 
 * Wireframes 
   * First Idea 
@@ -83,12 +83,12 @@ The main goal of this project was to create a website for people to easily get i
 * To be accessible on all devices. 
 
 
-### Userstories 
+### User Stories 
 
-* A users perspective: I want to easily understand the purpose of the website. 
-* A users perspective: I want the website to be easily navigated between all pages.  
-* A users perspective: I want the website to offer a clean look. 
-* A users perspective: I wish that the website offers a easy to understand contact form. 
+* A user's perspective: I want to easily understand the purpose of the website. 
+* A user's perspective: I want the website to be easily navigated between all pages.  
+* A user's perspective: I want the website to offer a clean look. 
+* A user's perspective: I wish that the website offers a easy to understand contact form. 
 
 
 ---
@@ -252,7 +252,7 @@ This represents the Text Overlays.
 
 
 ### Devices 
-Something thats worth mentioning is that I've tested the majority of these devices within `Chrome dev tool`, I have not had physical access to test these devices. 
+Something that's worth mentioning is that I've tested the majority of these devices within `Chrome dev tool`, I have not had physical access to test these devices. 
 I have tested the responsiveness and aesthetics on the following devices and browsers: 
 
 * **Apple** 
@@ -471,7 +471,7 @@ This is all done to prevent any `data` loss in case Gitpod crashes.
 ![First background image, before I changed](/assets/images/first-hero-image.jpg) 
 
 
-**The background image I choose to go for beacuse I thought it looked better:** 
+**The background image I choose to go for because I thought it looked better:** 
 
 * Image taken from [Pixa bay](https://pixabay.com/) (link).
 
