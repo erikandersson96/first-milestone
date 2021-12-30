@@ -236,7 +236,7 @@ This represents the Text Overlays.
 
 * I also learned when git commit a message in `Gitpod` I should have only included what was relevant to that commit. I may have committed a message which included more changes than I added in that exact commit message, not only once but a couple of times. This is something that I will improve in my next project to be more consistent and correct with my commit messages. 
 
-* The way I structured my `Media Screen size breakpoints` will improve for future projects. When I ran the `W3C CSS Validator` I got a ton of errors because I had included attributes in every `Media` query even if they were not changed between screen sizes which resulted in `287 parse errors`, but they are all fixed now. 
+* The way I structured my `Media Screen size breakpoints` will improve for future projects. When I ran the `W3C CSS Validator` I got a ton of errors because I had included attributes in every `Media query` even if they were not changed between screen sizes which resulted in `287 parse errors`, but they are all fixed now. 
 
 
 ---
@@ -334,7 +334,7 @@ When testing the website link at [Jigsaw Validator](https://jigsaw.w3.org/css-va
 
 **Error:** 
 
-`287 Parse errors.` I had written for the font-family: `Open+Sans` and the `“+”` gave me an error for all of them. And I had also set every `Media` for all attributes of that `div` not only the attributes that I actually changed. And I also got an error for including too much unnecessary code within each `Media screen size breakpoint`, I didn’t only include the one parameters that I changed, I also included every each of them including the ones that I didn’t change. 
+`287 Parse errors.` I had written for the font-family: `Open+Sans` and the `“+”` gave me an error for all of them. And I had also set every `Media queries` for all attributes of that `div` not only the attributes that I actually changed. And I also got an error for including too much unnecessary code within each `Media screen size breakpoint`, I didn’t only include the one parameters that I changed, I also included every each of them including the ones that I didn’t change. 
 
 ![Screenshot of CSS jigsaw validation error](/assets/images/css-validator-error.png)
 
@@ -348,7 +348,7 @@ When testing the website link at [Jigsaw Validator](https://jigsaw.w3.org/css-va
 
 **Solution:** 
 
-I changed every font to the correct spelling (from `Open+Sans` to `“Open Sans”`) and I also got rid of all unnecessary code in every @media screen breakpoint that I had included from the start. So from now on it only holds the changes made for every `13 breakpoints` in my CSS file. 
+I changed every font to the correct spelling (from `Open+Sans` to `“Open Sans”`) and I also got rid of all unnecessary code in every `Media screen breakpoint` that I had included from the start. So from now on it only holds the changes made for every `13 breakpoints` in my CSS file. 
 
 
 **After I applied the CSS solution:**
