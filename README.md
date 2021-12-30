@@ -107,7 +107,8 @@ The main goal of this project was to create a website for people to easily get i
 
 ![Screenshot wireframe get in touch page](/assets/images/wireframe-4.png)
 
-####Comparison 
+#### Comparison 
+
 **final product:** 
 
 ![Screenshot home page](/assets/images/wireframes-home.png) 
