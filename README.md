@@ -34,8 +34,8 @@ The main goal of this project was to create a website for people to easily get i
   * [User Stories](#user-stories)
 
 * [Wireframes](#wireframes)
-  * [First Idea](#first-idea)
-  * [Comparison](#comparison)
+  * [First Idea](#wireframes)
+  * [Comparison](#comparison-final-product)
 
 * [Website Design](#website-design)
   * [Color Scheme](#color-scheme)
@@ -54,7 +54,7 @@ The main goal of this project was to create a website for people to easily get i
 * [Testing](#testing)
   * [Devices](#devices)
   * [Validator Testing](#validator-testing)
-  * [Lighthouse - Dev Tool](#lighthouse-dev-tool)
+  * [Lighthouse - Dev Tool](#lighthouse--dev-tool)
   * [Wave Page](#wave-page)
   * [Fixed Bugs](#fixed-bugs)
   * [Unfixed Bugs](#unfixed-bugs)
