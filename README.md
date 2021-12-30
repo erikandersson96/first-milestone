@@ -29,40 +29,40 @@ The main goal of this project was to create a website for people to easily get i
 ---
 ## Table of Contents 
 
-* [UX](#uxuserexperience)
-  * [Visitor Goals](#visitor)
-  * [User Stories](#userstories)
+* [UX](#ux-user-experience)
+  * [Visitor Goals](#visitor-goals)
+  * [User Stories](#user-stories)
 
 * [Wireframes](#wireframes)
-  * [First Idea](#firstidea)
+  * [First Idea](#first-idea)
   * [Comparison](#comparison)
 
-* [Website Design](#websitedesign)
-  * [Color Scheme](#colorscheme)
+* [Website Design](#website-design)
+  * [Color Scheme](#color-scheme)
   * [Fonts](#fonts)
 
-* [Existing Features](#existingfeatures)
-  * [Navigation Bar](#navigationbar)
-  * [Landing Page (Hero image)](#landingpage)
+* [Existing Features](#existing-features)
+  * [Navigation Bar](#navigation-bar)
+  * [Landing Page](#landing-page)
   * [Footer](#footer)
-  * [About us](#aboutus)
-  * [Get in touch](#getintouch)
+  * [About us](#about-us)
+  * [Get in touch](#get-in-touch)
 
-* [Future Features](#futurefeatures)
-  * [Learning Points](#learningpoints)
+* [Future Features](#future-features)
+  * [Learning Points](#learning-points)
 
 * [Testing](#testing)
   * [Devices](#devices)
-  * [Validator Testing](#validatortesting)
-  * [Lighthouse - Dev Tool](#lighthouse-devtool)
-  * [Wave Page](#wavepage)
-  * [Fixed Bugs](#fixedbugs)
-  * [Unfixed Bugs](#unfixedbugs)
+  * [Validator Testing](#validator-testing)
+  * [Lighthouse - Dev Tool](#lighthouse-dev-tool)
+  * [Wave Page](#wave-page)
+  * [Fixed Bugs](#fixed-bugs)
+  * [Unfixed Bugs](#unfixed-bugs)
 
 
 * [Deployment](#deployment)
-  * [Creating My Website](#creatingmywebsite)
-  * [GitHub Pages](#gitHubpages)
+  * [Creating My Website](#creating-my-website)
+  * [GitHub Pages](#github-pages)
 
 * [Credits](#credits)
   * [Content](#content)
