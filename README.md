@@ -34,7 +34,7 @@ The main goal of this project was to create a website for people to easily get i
   * [User Stories](#user-stories)
 
 * [Wireframes](#wireframes)
-  * [First Idea](#wireframes)
+  * [First Idea](#first-idea)
   * [Comparison](#comparison)
 
 * [Website Design](#website-design)
@@ -97,8 +97,10 @@ The main goal of this project was to create a website for people to easily get i
 * First `4 images` is from the first idea and the wireframes is for `only desktop screens`. (I never did a wireframe for mobile use but I will do it for future projects): 
 * Second row containing `4 images` is from the final product of the website. To give you a comparison: 
 
-**First 4 images:** 
+#### First Idea
 
+**First website idea:** 
+ 
 ![Screenshot wireframe home page](/assets/images/wireframe-1.png)  
 
 ![Screenshot wireframe about us page](/assets/images/wireframe-2.png)
