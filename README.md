@@ -29,46 +29,46 @@ The main goal of this project was to create a website for people to easily get i
 ---
 ## Table of Contents 
 
-* UX 
-  * Visitor Goals 
-  * User Stories 
+* [UX](#ux)
+  * [Visitor Goals](#visitorgoals)
+  * [User Stories](#userstories)
 
-* Wireframes 
-  * First Idea 
-  * Comparison 
+* [Wireframes](#wireframes)
+  * [First Idea](#firstidea)
+  * [Comparison](#comparison)
 
-* Website Design 
-  * Color Scheme 
-  * Fonts 
+* [Website Design](#websitedesign)
+  * [Color Scheme](#colorscheme)
+  * [Fonts](#fonts)
 
-* Existing Features 
-  * Navigation Bar 
-  * Landing Page (Hero image)
-  * Footer 
-  * About us 
-  * Get in touch 
+* [Existing Features](#existingfeatures)
+  * [Navigation Bar](#navigationbar)
+  * [Landing Page (Hero image)](#landingpage)
+  * [Footer](#footer)
+  * [About us](#aboutus)
+  * [Get in touch](#getintouch)
 
-* Future Features 
-  * Learning Points 
+* [Future Features](#futurefeatures)
+  * [Learning Points](#learningpoints)
 
-* Testing 
-  * Devices 
-  * Validator Testing 
-  * Lighthouse - Dev Tool 
-  * Wave Page 
-  * Fixed Bugs 
-  * Unfixed Bugs 
+* [Testing](#testing)
+  * [Devices](#devices)
+  * [Validator Testing](#validatortesting)
+  * [Lighthouse - Dev Tool](#lighthouse-devtool)
+  * [Wave Page](#wavepage)
+  * [Fixed Bugs](#fixedbugs)
+  * [Unfixed Bugs](#unfixedbugs)
 
 
-* Deployment
-  * Creating My Website 
-  * GitHub Pages 
+* [Deployment](#deployment)
+  * [Creating My Website](#creatingmywebsite)
+  * [GitHub Pages](#gitHubpages)
 
-* Credits 
-  * Content 
-  * Media 
+* [Credits](#credits)
+  * [Content](#content)
+  * [Media](#media)
 
-* Support 
+* [Support](#support)
 
 
 ---
