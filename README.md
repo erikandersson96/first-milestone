@@ -35,7 +35,7 @@ The main goal of this project was to create a website for people to easily get i
 
 * [Wireframes](#wireframes)
   * [First Idea](#wireframes)
-  * [Comparison](#comparison-final-product)
+  * [Comparison](#comparison)
 
 * [Website Design](#website-design)
   * [Color Scheme](#color-scheme)
@@ -54,7 +54,7 @@ The main goal of this project was to create a website for people to easily get i
 * [Testing](#testing)
   * [Devices](#devices)
   * [Validator Testing](#validator-testing)
-  * [Lighthouse - Dev Tool](#lighthouse--dev-tool)
+  * [Lighthouse Dev Tool](#lighthouse-dev-tool)
   * [Wave Page](#wave-page)
   * [Fixed Bugs](#fixed-bugs)
   * [Unfixed Bugs](#unfixed-bugs)
@@ -107,7 +107,8 @@ The main goal of this project was to create a website for people to easily get i
 
 ![Screenshot wireframe get in touch page](/assets/images/wireframe-4.png)
 
-**Comparison, final product:** 
+####Comparison 
+**final product:** 
 
 ![Screenshot home page](/assets/images/wireframes-home.png) 
 
@@ -352,7 +353,7 @@ Here is a link to my Approved CSS jigsaw [Validator](https://jigsaw.w3.org/css-v
 
 
 ---
-### Lighthouse - Dev Tool 
+### Lighthouse Dev Tool 
 I used `Chrome lighthouse dev tool` to test the website `performance`. I’ve got an average result of `98,6%` for desktop and `90%` for mobile devices. 
 
 **Home Page (desktop)** 
