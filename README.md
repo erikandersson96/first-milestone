@@ -250,7 +250,7 @@ This represents the Text Overlays.
 
 * I also learned when git commit a message in `Gitpod` I should have only included what was relevant to that commit. I may have committed a message which included more changes than I added in that exact commit message, not only once but a couple of times. This is something that I will improve in my next project to be more consistent and correct with my commit messages. 
 
-* The way I structured my `Media Screen size breakpoints` will improve for future projects. When I ran the `W3C CSS Validator` I got a ton of errors because I had included attributes in every `Media query` even if they were not changed between screen sizes which resulted in `287 parse errors`, but they are all fixed now. 
+* The way I structured my `Media Screen size breakpoints` will improve for future projects. When I ran the `W3C CSS Validator` I got a ton of errors because I had included attributes in every `Media queries` even if they were not changed between screen sizes which resulted in `287 parse errors`, but they are all fixed now. 
 
 
 ---
