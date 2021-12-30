@@ -94,10 +94,10 @@ The main goal of this project was to create a website for people to easily get i
 ---
 ## Wireframes 
 
-* First `4 images` is from the first idea and the wireframes is for `only desktop screens`. (I never did a wireframe for mobile use but I will do it for future projects): 
-* Second row containing `4 images` is from the final product of the website. To give you a comparison: 
+* First `4 images` is from the first idea and the wireframes is for `only desktop screens` (I never did a wireframe for mobile use but I will do it for future projects). This wireframe was created using [Balsamiq - Balsamiq Wireframes](https://balsamiq.com/).  
+* Second row containing `3 images` is from the final product of the website. To give you a comparison: 
 
-#### First Idea
+### First Idea
 
 **First website idea:** 
  
@@ -109,7 +109,7 @@ The main goal of this project was to create a website for people to easily get i
 
 ![Screenshot wireframe get in touch page](/assets/images/wireframe-4.png)
 
-#### Comparison 
+### Comparison 
 
 **Final product:** 
 
