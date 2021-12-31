@@ -9,7 +9,7 @@ Take a look at the website [here](https://erikandersson96.github.io/first-milest
 
 
 ---
-## Milestone Project One 
+## Portfolio Project One 
 
 ---
 ### Intention 
